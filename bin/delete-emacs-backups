@@ -1,0 +1,3 @@
+#! /bin/bash
+find /home/edeng655-local/.saves/ -type f -name '*~' -mtime +182 -exec rm {} \;
+
