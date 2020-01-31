@@ -154,4 +154,5 @@ complete -F _fizzbuzz fizzbuzz
 
 source /home/edeng655-local/scripts/delete-branch-completion.bash
 source /home/edeng655-local/scripts/git-merge-develop-completion.bash
+source /home/edeng655-local/scripts/git-rebase-develop-completion.bash
 
