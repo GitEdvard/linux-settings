@@ -1,0 +1,95 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+i ctrl+l",
+        "command": "bookmarks.clearFromAllFiles"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "-bookmarks.shrinkSelection",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "-bookmarks.shrinkSelection",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "-bookmarks.shrinkSelection",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+u",
+        "command": "bookmarks.listFromAllFiles"
+    },
+    {
+        "key": "shift+alt+1",
+        "command": "workbench.files.action.showActiveFileInExplorer"
+    },
+    {
+        "key": "ctrl+[Semicolon]",
+        "command": "editor.action.moveCarretRightAction"
+    },
+    {
+        "key": "ctrl+[Quote]",
+        "command": "editor.action.moveCarretLeftAction"
+    },
+    {
+        "key": "ctrl+l ctrl+l",
+        "command": "center-editor-window.center",
+        "when": "editorTextFocus || findWidgetVisible"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "-center-editor-window.center",
+        "when": "editorTextFocus || findWidgetVisible"
+    },
+    {
+        "key": "shift+alt+[Minus]",
+        "command": "workbench.action.quickInputBack",
+        "when": "inQuickOpen"
+    },
+    {
+        "key": "ctrl+alt+-",
+        "command": "-workbench.action.quickInputBack",
+        "when": "inQuickOpen"
+    },
+    {
+        "key": "shift+alt+[Minus]",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+alt+-",
+        "command": "-workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "list.focusDown",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "selectNextSuggestion",
+        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
+    },
+    {
+        "key": "down",
+        "command": "-selectNextSuggestion",
+        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
+    },
+]
