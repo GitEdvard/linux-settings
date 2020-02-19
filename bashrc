@@ -57,7 +57,7 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\[\033[00m\]\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
@@ -123,19 +123,19 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
-export PATH="$PATH:~/bin"
+export PATH="$PATH:~/bin:~/Installations/pycharm/pycharm-community-2019.3.3/bin"
 
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/edeng655-local/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/edvard/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/edeng655-local/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/edeng655-local/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/edeng655-local/miniconda3/bin:$PATH"
+        export PATH="/home/edvard/Installations/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
@@ -152,7 +152,7 @@ function _fizzbuzz () {
 }
 complete -F _fizzbuzz fizzbuzz
 
-source /home/edeng655-local/scripts/delete-branch-completion.bash
-source /home/edeng655-local/scripts/git-merge-develop-completion.bash
-source /home/edeng655-local/scripts/git-rebase-develop-completion.bash
+source /home/edvard/scripts/delete-branch-completion.bash
+source /home/edvard/scripts/git-merge-develop-completion.bash
+source /home/edvard/scripts/git-rebase-develop-completion.bash
 
