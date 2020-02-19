@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 18,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
