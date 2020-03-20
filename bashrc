@@ -128,14 +128,14 @@ export PATH="$PATH:~/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/edeng655-local/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('$HOME/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/edeng655-local/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/edeng655-local/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "$HOME/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "$HOME/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/edeng655-local/miniconda3/bin:$PATH"
+        export PATH="$HOME/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
@@ -152,7 +152,7 @@ function _fizzbuzz () {
 }
 complete -F _fizzbuzz fizzbuzz
 
-source /home/edeng655-local/scripts/delete-branch-completion.bash
-source /home/edeng655-local/scripts/git-merge-develop-completion.bash
-source /home/edeng655-local/scripts/git-rebase-develop-completion.bash
+source "$HOME/scripts/delete-branch-completion.bash"
+source "$HOME/scripts/git-merge-develop-completion.bash"
+source "$HOME/scripts/git-rebase-develop-completion.bash"
 
