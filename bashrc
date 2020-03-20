@@ -123,7 +123,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
-export PATH="$PATH:~/bin"
+export PATH="$PATH:~/bin/bin_work"
 
 
 # >>> conda initialize >>>
