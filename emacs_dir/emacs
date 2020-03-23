@@ -20,3 +20,4 @@
 (put 'upcase-region 'disabled nil)
 (setq backup-directory-alist `(("." . "~/.saves")))
 (load-theme 'firebelly)
+(setq inhibit-startup-screen t)
