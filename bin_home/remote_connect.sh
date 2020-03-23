@@ -51,7 +51,13 @@ connect_vpn() {
 	printf "$username\n$password\n" | eval "${anyconnect_path} -s connect vpn.uu.se"
 }
 
-connect_vpn
+if /opt/cisco/anyconnect/bin/vpn -s state | grep "Disconnected" > /dev/null
+then
+    echo "Connecting to vpn..."
+    connect_vpn
+else
+    echo "Vpn connection already active"
+fi
 
 # NOTE: The following two will ask for a pass unless you've set up a keypair
 echo "Setting up socks..."
