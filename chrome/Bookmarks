@@ -1,0 +1,2110 @@
+{
+   "checksum": "f88826929ee885cf993bf2d3d76d65b3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13134469721000000",
+                     "guid": "0a445357-8aa3-462b-b4b7-22dba6b9bbd7",
+                     "id": "8",
+                     "name": "Common ‘SSPI handshake failed’ errors and troubleshooting – Don Castelino",
+                     "type": "url",
+                     "url": "https://blogs.msdn.microsoft.com/docast/2016/02/11/common-sspi-handshake-failed-errors-and-troubleshooting/"
+                  }, {
+                     "date_added": "13134230945000000",
+                     "guid": "92186380-d35b-4f78-998c-f6aa53e43085",
+                     "id": "9",
+                     "name": "SSPI handshake failed with error code 0x80090311",
+                     "type": "url",
+                     "url": "https://social.technet.microsoft.com/Forums/sqlserver/en-US/74db708b-dcdf-4c0e-819b-861e8a22fa6b/sspi-handshake-failed-with-error-code-0x80090311?forum=sqldatabaseengine"
+                  }, {
+                     "date_added": "13134230927000000",
+                     "guid": "8eef1797-ea72-43ab-a6e7-afd143f9c4a0",
+                     "id": "10",
+                     "name": "SSPI handshake failed with error code 0x80090311",
+                     "type": "url",
+                     "url": "https://social.technet.microsoft.com/Forums/windows/en-US/0db977e7-8592-4cb0-a924-e691609db0d9/sspi-handshake-failed-with-error-code-0x80090311?forum=winserversecurity"
+                  } ],
+                  "date_added": "13226493517293217",
+                  "date_modified": "0",
+                  "guid": "7016f6a2-6b82-4197-8666-2a5352ffb990",
+                  "id": "7",
+                  "name": "Specifika problem",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13158147424000000",
+                     "guid": "857c6c44-f60f-44db-946c-6e8ff87f869f",
+                     "id": "12",
+                     "name": "The top 10 causes of slow data backups",
+                     "type": "url",
+                     "url": "http://searchdatabackup.techtarget.com/tip/The-top-10-causes-of-slow-data-backups"
+                  }, {
+                     "date_added": "13158147756000000",
+                     "guid": "2ce85127-8ef9-413c-bf6b-232973fed642",
+                     "id": "13",
+                     "name": "PerfGuide: Analyzing Poor Disk Response Times - TechNet Articles - United States (English) - TechNet Wiki",
+                     "type": "url",
+                     "url": "https://social.technet.microsoft.com/wiki/contents/articles/1516.perfguide-analyzing-poor-disk-response-times.aspx"
+                  } ],
+                  "date_added": "13226493517293395",
+                  "date_modified": "0",
+                  "guid": "43201f6b-accf-4a50-9b59-eb49421b48d2",
+                  "id": "11",
+                  "name": "Långsamma backupper",
+                  "type": "folder"
+               } ],
+               "date_added": "13226493517293207",
+               "date_modified": "13226493517293207",
+               "guid": "d69cd685-7bff-47ae-bd32-6bbd536aaeb8",
+               "id": "6",
+               "name": "Servern",
+               "type": "folder"
+            }, {
+               "date_added": "13062788879000000",
+               "guid": "c7581040-333d-4fde-9b4b-0f55adc676c8",
+               "id": "14",
+               "name": "130.238.178.213",
+               "type": "url",
+               "url": "http://130.238.178.213/"
+            }, {
+               "date_added": "13065621715000000",
+               "guid": "66dcf44e-57e1-4387-bd5b-adf242e4da13",
+               "id": "15",
+               "name": "Gemensam webbinloggning - Uppsala universitet",
+               "type": "url",
+               "url": "https://weblogin.uu.se/idp/Authn/UserPassword"
+            }, {
+               "date_added": "13068214407000000",
+               "guid": "f14cd938-8f96-410d-ac07-2d301f381923",
+               "id": "16",
+               "name": "SNP&SEQ Technology Platform - Uppsala University, Sweden",
+               "type": "url",
+               "url": "http://www.molmed.medsci.uu.se/SNP+SEQ+Technology+Platform/"
+            }, {
+               "date_added": "13146739406000000",
+               "guid": "e3ff1978-38ec-427b-9895-0b34fcef4b63",
+               "id": "17",
+               "name": "UUs produktweb",
+               "type": "url",
+               "url": "https://produktwebb.uu.se/inkop/Default.aspx"
+            } ],
+            "date_added": "13226493517292839",
+            "date_modified": "0",
+            "guid": "0ca00e0f-3823-4b17-bed6-7fc9d50054cb",
+            "id": "5",
+            "name": "Administration",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13226571945355924",
+                  "guid": "7be8b5c4-55ce-4271-9b32-8fea0c939617",
+                  "id": "290",
+                  "name": "Login - Adminer",
+                  "type": "url",
+                  "url": "http://127.0.0.1:8432/"
+               }, {
+                  "date_added": "13226588600510197",
+                  "guid": "b07fe530-3b49-476f-8f5b-ef4c4353cb33",
+                  "id": "293",
+                  "name": "commonlims UI",
+                  "type": "url",
+                  "url": "http://127.0.0.1:8000/lab/?cursor=&groupBy=substance&search=sample.name%3A"
+               } ],
+               "date_added": "13226571999093130",
+               "date_modified": "13229177417407436",
+               "guid": "a809344e-c01a-4bbe-b952-391b3a66bf44",
+               "id": "291",
+               "name": "Commonlims",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13110023051000000",
+                     "guid": "df7f3d31-1a7c-4fd2-ab63-a98d6926aaae",
+                     "id": "21",
+                     "name": "github - Delete a Git branch both locally and remotely - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/2003505/delete-a-git-branch-both-locally-and-remotely"
+                  }, {
+                     "date_added": "13091720117000000",
+                     "guid": "fa091e84-6ae5-478c-bfd0-01b87781e680",
+                     "id": "22",
+                     "name": "git reset - Revert Git repo to a previous commit - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit"
+                  }, {
+                     "date_added": "13103732288000000",
+                     "guid": "5c4425d4-67c5-4033-8962-508e926ea7d4",
+                     "id": "23",
+                     "name": "python - pip install from github repo branch - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/20101834/pip-install-from-github-repo-branch"
+                  }, {
+                     "date_added": "13101992267000000",
+                     "guid": "2f37283d-1ac2-4861-a932-af649b3b3994",
+                     "id": "24",
+                     "name": "git - .gitignore not working - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/11451535/gitignore-not-working"
+                  }, {
+                     "date_added": "13124549011000000",
+                     "guid": "58c50820-c20d-41f0-bb3c-26499b7cfbdb",
+                     "id": "25",
+                     "name": "Undoing a git rebase - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/134882/undoing-a-git-rebase"
+                  }, {
+                     "date_added": "13126623494000000",
+                     "guid": "b5d0b133-f680-4a85-9064-e62af6b63249",
+                     "id": "26",
+                     "name": "git commit - Removing multiple files from a Git repo that have already been deleted from disk - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/492558/removing-multiple-files-from-a-git-repo-that-have-already-been-deleted-from-disk"
+                  }, {
+                     "date_added": "13108638407000000",
+                     "guid": "bbe90794-8841-4cdd-a5bd-48ba7f813a43",
+                     "id": "27",
+                     "name": "Syncing a fork - User Documentation",
+                     "type": "url",
+                     "url": "https://help.github.com/articles/syncing-a-fork/"
+                  }, {
+                     "date_added": "13180014968000000",
+                     "guid": "14f4e0f9-7051-43a0-8a14-be1af4d8f6f9",
+                     "id": "28",
+                     "name": "Move the most recent commit(s) to a new branch with Git - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git"
+                  }, {
+                     "date_added": "13198344066000000",
+                     "guid": "69e24e96-d1a0-415a-85d1-e86e6c67981a",
+                     "id": "29",
+                     "name": "Git: How to reuse/retain commit messages after 'git reset'? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/16858069/git-how-to-reuse-retain-commit-messages-after-git-reset"
+                  } ],
+                  "date_added": "13226493517293759",
+                  "date_modified": "0",
+                  "guid": "e52900e3-47e7-4498-ab57-c285a9c56176",
+                  "id": "20",
+                  "name": "Actions",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13091714160000000",
+                     "guid": "ef3dfba1-15c4-48bc-92a9-67dfa1a3a256",
+                     "id": "31",
+                     "name": "Git - Branches | Atlassian Git Tutorial",
+                     "type": "url",
+                     "url": "https://www.atlassian.com/git/tutorials/using-branches"
+                  }, {
+                     "date_added": "13091715481000000",
+                     "guid": "bf1b7a20-6554-4f89-a171-9ce94cf7dd54",
+                     "id": "32",
+                     "name": "powershell - What does git [master +2 ~1 -0 !] mean? - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/12021460/what-does-git-master-2-1-0-mean"
+                  }, {
+                     "date_added": "13091729777000000",
+                     "guid": "c505882b-39d1-473c-ac6c-9a0a6b4082c7",
+                     "id": "33",
+                     "name": "Git - Documentation",
+                     "type": "url",
+                     "url": "https://git-scm.com/doc"
+                  }, {
+                     "date_added": "13150994677000000",
+                     "guid": "daa5a460-bea0-4879-9ea6-3a74a54ad1be",
+                     "id": "34",
+                     "name": "Git - Submodules",
+                     "type": "url",
+                     "url": "https://git-scm.com/book/en/v2/Git-Tools-Submodules"
+                  } ],
+                  "date_added": "13226493517294121",
+                  "date_modified": "0",
+                  "guid": "d3f1f779-b745-4633-a1a7-6bdb15f6835b",
+                  "id": "30",
+                  "name": "Allmänt",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13108638416000000",
+                     "guid": "da8a8941-98b7-41d4-838d-cae277277761",
+                     "id": "36",
+                     "name": "Pretty git branch graphs - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/1057564/pretty-git-branch-graphs"
+                  }, {
+                     "date_added": "13111051451000000",
+                     "guid": "5cc7334a-2367-46a7-95ec-edb79c654192",
+                     "id": "37",
+                     "name": "Is there a git-merge --dry-run option? - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option"
+                  }, {
+                     "date_added": "13130931060000000",
+                     "guid": "98b783bd-61bf-41a5-9763-b69a20f2c187",
+                     "id": "38",
+                     "name": "How to diff one file to an arbitrary version in Git? - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git"
+                  }, {
+                     "date_added": "13130934466000000",
+                     "guid": "b6457642-d0a6-4dd6-a3a1-1fdd15714801",
+                     "id": "39",
+                     "name": "git log - View the change history of a file using Git versioning - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/278192/view-the-change-history-of-a-file-using-git-versioning"
+                  }, {
+                     "date_added": "13135676770000000",
+                     "guid": "6cd8691c-2296-4619-959b-e80716ec0cc6",
+                     "id": "40",
+                     "name": "location - Where does git config --global get written to? - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/2114111/where-does-git-config-global-get-written-to"
+                  } ],
+                  "date_added": "13226493517294258",
+                  "date_modified": "0",
+                  "guid": "bd7afc0f-d57f-40ce-8f2d-8f8d039f3b28",
+                  "id": "35",
+                  "name": "Show stuff",
+                  "type": "folder"
+               }, {
+                  "date_added": "13110884517000000",
+                  "guid": "c9ad881e-5484-4a73-b277-e3864e8b9a6f",
+                  "id": "41",
+                  "name": "Checkout remote Git branch - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/1783405/checkout-remote-git-branch"
+               }, {
+                  "date_added": "13155657638000000",
+                  "guid": "2dcd7f5c-1e24-464a-85f4-9bb142dca65b",
+                  "id": "42",
+                  "name": "Connecting to GitHub with SSH - User Documentation",
+                  "type": "url",
+                  "url": "https://help.github.com/articles/connecting-to-github-with-ssh/"
+               } ],
+               "date_added": "13226493517293752",
+               "date_modified": "0",
+               "guid": "e3cc3dac-13c6-4406-86da-0f05e12a393a",
+               "id": "19",
+               "name": "Git",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13164386944000000",
+                  "guid": "fc7f20a5-e0ea-49f6-9edb-8046e02fc26d",
+                  "id": "44",
+                  "name": "Chiasma - Service Desk - Service Desk",
+                  "type": "url",
+                  "url": "https://snpseq.atlassian.net/servicedesk/customer/portal/2/create/39"
+               }, {
+                  "date_added": "13163862636000000",
+                  "guid": "f581b781-2529-4a8d-a341-093e794a3de4",
+                  "id": "45",
+                  "name": "Create issue - JIRA",
+                  "type": "url",
+                  "url": "https://snpseq.atlassian.net/secure/CreateIssue!default.jspa"
+               }, {
+                  "date_added": "13183124214000000",
+                  "guid": "e2dcaf8c-dba6-41b5-8359-ecbb5cf84edd",
+                  "id": "46",
+                  "name": "New Chiasma serviice portal",
+                  "type": "url",
+                  "url": "https://snpseq.atlassian.net/servicedesk/customer/portal/2/group/11"
+               } ],
+               "date_added": "13226493517294515",
+               "date_modified": "0",
+               "guid": "d2354832-56e4-46f4-8903-3e0d09037830",
+               "id": "43",
+               "name": "Jira",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13138207943000000",
+                  "guid": "c2cb5485-2641-455b-bb83-74a5f26114aa",
+                  "id": "48",
+                  "name": "command line - Adding directory to PATH Environment Variable in Windows - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/9546324/adding-directory-to-path-environment-variable-in-windows"
+               }, {
+                  "date_added": "13138965006000000",
+                  "guid": "a8331805-4597-4ceb-a85f-17599062d37b",
+                  "id": "49",
+                  "name": "bash - How to run .sh on Windows Command Prompt? - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/26522789/how-to-run-sh-on-windows-command-prompt"
+               }, {
+                  "date_added": "13138967169000000",
+                  "guid": "a4ef12f5-f45f-467f-a411-d292fc0a1e6c",
+                  "id": "50",
+                  "name": "How do you avoid over-populating the PATH Environment Variable in Windows? - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/4405091/how-do-you-avoid-over-populating-the-path-environment-variable-in-windows"
+               }, {
+                  "date_added": "13141997513000000",
+                  "guid": "fb944713-b676-466a-be00-d51270cfcfcb",
+                  "id": "51",
+                  "name": "Delete directory from command line",
+                  "type": "url",
+                  "url": "https://www.windows-commandline.com/delete-directory-from-command-line/"
+               } ],
+               "date_added": "13226493517294621",
+               "date_modified": "0",
+               "guid": "2bdb5639-a386-46f3-9abf-f4aad5f049ab",
+               "id": "47",
+               "name": "Kommando prompten",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13110011400000000",
+                  "guid": "c02802f8-da24-4528-943d-abba6a6334cf",
+                  "id": "53",
+                  "name": "keyboard shortcuts - Locate current file in IntelliJ - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/1086041/locate-current-file-in-intellij"
+               } ],
+               "date_added": "13226493517294789",
+               "date_modified": "0",
+               "guid": "a8985c01-e5fb-4f5e-83a8-f83c023a3b17",
+               "id": "52",
+               "name": "PyCharm",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13091542786000000",
+                  "guid": "dcc4e966-d743-4495-be7e-2f3ea3590f8c",
+                  "id": "55",
+                  "name": "https://www.jetbrains.com/resharper/docs/ReSharper50DefaultKeymap_VS_scheme.pdf",
+                  "type": "url",
+                  "url": "https://www.jetbrains.com/resharper/docs/ReSharper50DefaultKeymap_VS_scheme.pdf"
+               }, {
+                  "date_added": "13097942549000000",
+                  "guid": "559cdd99-f26d-47e1-a5f6-3f028cd3ad5e",
+                  "id": "56",
+                  "name": "ReSharper :: Navigate and search your C#, VB.NET, ASP.NET, XML, JavaScript, HTML, CSS, and XAML code with ease",
+                  "type": "url",
+                  "url": "https://www.jetbrains.com/resharper/features/navigation_search.html"
+               } ],
+               "date_added": "13226493517294825",
+               "date_modified": "0",
+               "guid": "d63d9ead-d79c-4af2-a9c9-3c773c8fd2a7",
+               "id": "54",
+               "name": "ReSharper",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13151145649000000",
+                  "guid": "3b5ed4ce-b501-4415-bd1e-7ac9cb9dde01",
+                  "id": "58",
+                  "name": "caching - How to remove cached server names from the Connect to Server dialog? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/10993861/how-to-remove-cached-server-names-from-the-connect-to-server-dialog"
+               } ],
+               "date_added": "13226493517294919",
+               "date_modified": "0",
+               "guid": "d9bf8d66-a480-4efd-9fa8-5e5f2ad82c4a",
+               "id": "57",
+               "name": "SQL MS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13178789607000000",
+                     "guid": "49d98c8a-4520-4bd1-a17b-74ee3d9bce0e",
+                     "id": "61",
+                     "name": "Access Denied / Unknown Error / other issues when running on Win7 under multiple user contexts (Admin / normal) - Developer Community",
+                     "type": "url",
+                     "url": "https://developercommunity.visualstudio.com/content/problem/31188/access-denied-error-1.html"
+                  }, {
+                     "date_added": "13178789613000000",
+                     "guid": "c3d59755-8bbe-4e04-bd1b-51ac4f7650f4",
+                     "id": "62",
+                     "name": "Visual Studio 2017 HRESULT: 0x80070005 / E_ACCESSDENIED on project creation - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/42902619/visual-studio-2017-hresult-0x80070005-e-accessdenied-on-project-creation"
+                  } ],
+                  "date_added": "13226493517294974",
+                  "date_modified": "0",
+                  "guid": "5144542f-557b-4fb3-9cfb-e8fbe01c339e",
+                  "id": "60",
+                  "name": "Inloggning",
+                  "type": "folder"
+               }, {
+                  "date_added": "13110971706000000",
+                  "guid": "925e5dec-a66c-43b4-bbbe-8f1e9bb11c87",
+                  "id": "63",
+                  "name": "Default Keyboard Shortcut Schemes",
+                  "type": "url",
+                  "url": "https://www.jetbrains.com/help/resharper/2016.1/Reference__Keyboard_Shortcuts.html"
+               }, {
+                  "date_added": "13110969814000000",
+                  "guid": "33af758b-0f43-4fdf-9c7a-56652f15ab20",
+                  "id": "64",
+                  "name": "visual studio - Resharper 7.1 Solution Analysis False Errors - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/18905840/resharper-7-1-solution-analysis-false-errors"
+               }, {
+                  "date_added": "13126035291000000",
+                  "guid": "f77100b5-280d-48fc-a0e7-fae65abab361",
+                  "id": "65",
+                  "name": "ReSharper 2016.2 Help :: Parameter Information",
+                  "type": "url",
+                  "url": "https://www.jetbrains.com/help/resharper/2016.2/Coding_Assistance__Parameter_Info.html"
+               }, {
+                  "date_added": "13131195446000000",
+                  "guid": "f6af3524-e0bd-4a1c-ae2a-5c9b65008641",
+                  "id": "66",
+                  "name": "10 Tips to Improve Visual Studio Build Performance - CodeProject",
+                  "type": "url",
+                  "url": "https://www.codeproject.com/Tips/1042975/Tips-to-Improve-Visual-Studio-Build-Performance"
+               }, {
+                  "date_added": "13133431127000000",
+                  "guid": "4624dea4-3f62-4403-9e8f-98cf5e2ac6ff",
+                  "id": "67",
+                  "name": "Default Keyboard Shortcuts in Visual Studio",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/da5kh0wa.aspx"
+               }, {
+                  "date_added": "13173796043000000",
+                  "guid": "e0341c7f-9358-4728-8654-d76d568e0ab8",
+                  "id": "68",
+                  "name": "test explorer not working after project rename in vs 2017 - Developer Community",
+                  "type": "url",
+                  "url": "https://developercommunity.visualstudio.com/content/problem/275341/test-explorer-not-working-after-project-rename-in.html"
+               } ],
+               "date_added": "13226493517294968",
+               "date_modified": "0",
+               "guid": "3dcab05c-4725-46d6-a52c-11aacb42d1df",
+               "id": "59",
+               "name": "Visual Studio",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13181213874000000",
+                     "guid": "72c99623-0c94-48d6-b4fb-f08e5e823997",
+                     "id": "71",
+                     "name": "How to resize a VirtualBox vmdk file - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/11659005/how-to-resize-a-virtualbox-vmdk-file"
+                  }, {
+                     "date_added": "13181213881000000",
+                     "guid": "40a120a6-2c70-437b-b632-5a4a858b2e04",
+                     "id": "72",
+                     "name": "How to resize a virtualbox VDI disk under windows | derekmolloy.ie",
+                     "type": "url",
+                     "url": "http://derekmolloy.ie/resize-a-virtualbox-disk/"
+                  } ],
+                  "date_added": "13226493517295281",
+                  "date_modified": "0",
+                  "guid": "6e029b6b-08c9-4c4e-a45a-dfd0e6e57513",
+                  "id": "70",
+                  "name": "Change disk size",
+                  "type": "folder"
+               } ],
+               "date_added": "13226493517295274",
+               "date_modified": "13226493517295274",
+               "guid": "b867323e-1e00-46d9-9058-155268c72fba",
+               "id": "69",
+               "name": "VirtualBox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13098957688000000",
+                  "guid": "030b595f-363e-4e40-a0f3-cc301fd710bd",
+                  "id": "74",
+                  "name": "Emacs: Newline Representation set-buffer-...",
+                  "type": "url",
+                  "url": "http://ergoemacs.org/emacs/emacs_line_ending_char.html"
+               }, {
+                  "date_added": "13099161597000000",
+                  "guid": "69b790c5-db38-4cb4-9ef4-19a249764328",
+                  "id": "75",
+                  "name": "EmacsWiki: Delete Selection Mode",
+                  "type": "url",
+                  "url": "http://www.emacswiki.org/emacs/DeleteSelectionMode"
+               }, {
+                  "date_added": "13128091070000000",
+                  "guid": "45f295bd-2e2a-4716-9761-51b9f13133e2",
+                  "id": "76",
+                  "name": "Emacs: Turn Off Auto Backup; Set Backups into a Directory; How to Delete Backup Files",
+                  "type": "url",
+                  "url": "http://ergoemacs.org/emacs/emacs_set_backup_into_a_directory.html"
+               } ],
+               "date_added": "13226493517295356",
+               "date_modified": "0",
+               "guid": "771669b1-8cdf-4e1f-ac21-80509939bd2a",
+               "id": "73",
+               "name": "XEmacs",
+               "type": "folder"
+            }, {
+               "date_added": "13066212726000000",
+               "guid": "5f71cf21-01d4-47b5-8e9d-3efb0e45d7b4",
+               "id": "77",
+               "name": "Home | Projectlibre",
+               "type": "url",
+               "url": "http://www.projectlibre.org/"
+            }, {
+               "date_added": "13065621899000000",
+               "guid": "3711a394-da1f-4fa1-ba77-096a0c7a055c",
+               "id": "78",
+               "name": "Säkerhetskopiering - Uppsala universitet",
+               "type": "url",
+               "url": "http://uadm.uu.se/it/tjanster/it-drift/sakerhetskopiering"
+            }, {
+               "date_added": "13070639796000000",
+               "guid": "0d4a0b63-f810-4efd-8fbd-b6fda0439330",
+               "id": "79",
+               "name": "GanttProject: free desktop project management app",
+               "type": "url",
+               "url": "http://www.ganttproject.biz/"
+            }, {
+               "date_added": "13073745792000000",
+               "guid": "3e7417d2-4077-4dce-b3af-50f4cca3624e",
+               "id": "80",
+               "name": "Evernote är din arbetsyta | Evernote",
+               "type": "url",
+               "url": "https://evernote.com/intl/sv/"
+            }, {
+               "date_added": "13090608569000000",
+               "guid": "905146a1-259f-4d3f-8b8b-3d4d2e9b3a18",
+               "id": "81",
+               "name": "Entity Framework",
+               "type": "url",
+               "url": "https://msdn.microsoft.com/en-us/data/ef.aspx"
+            }, {
+               "date_added": "13100604354000000",
+               "guid": "4212638b-0350-45c6-9c17-b542fd1078d1",
+               "id": "82",
+               "name": "Babun - a windows shell you will love!",
+               "type": "url",
+               "url": "http://babun.github.io/"
+            }, {
+               "date_added": "13206539322000000",
+               "guid": "b69c506f-61c3-4b5d-a5ee-d4a888a99312",
+               "id": "83",
+               "name": "Miro",
+               "type": "url",
+               "url": "https://miro.com/"
+            } ],
+            "date_added": "13226493517293609",
+            "date_modified": "13226572003483887",
+            "guid": "ee252fe3-4d3f-4ae6-8d29-71191cb15686",
+            "id": "18",
+            "name": "Mjukvara",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13065640784000000",
+               "guid": "7335506d-b6df-435f-ad04-ea813d7591c5",
+               "id": "85",
+               "name": "Uppsala JK - Judo - IdrottOnline Klubb",
+               "type": "url",
+               "url": "http://www2.idrottonline.se/UppsalaJK-Judo/"
+            }, {
+               "date_added": "13064327357000000",
+               "guid": "f0b6a424-2993-4148-a24b-5967ed81eb82",
+               "id": "86",
+               "name": "Uppsala Judoklubb – Uppsala, Sweden – Idrottsanläggning och stadion, Kampsport | Facebook",
+               "type": "url",
+               "url": "https://sv-se.facebook.com/uppsala.judo"
+            }, {
+               "date_added": "13065289394000000",
+               "guid": "b7bc9719-fb2e-4d0d-9973-b04ab0987b04",
+               "id": "87",
+               "name": "Friskis&Svettis - Uppsala | Friskis & Svettis",
+               "type": "url",
+               "url": "http://www.uppsala.friskissvettis.se/"
+            } ],
+            "date_added": "13226493517295659",
+            "date_modified": "0",
+            "guid": "60462fc3-066f-4d3f-81fb-3f90615fbf70",
+            "id": "84",
+            "name": "Motion",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13061995109000000",
+                  "guid": "c850249d-4fbe-4e94-b5c9-8c16e8f05f1e",
+                  "id": "90",
+                  "name": "Användbarhet i praktiken - Wikiboken",
+                  "type": "url",
+                  "url": "http://anvandbarhet.se/start"
+               } ],
+               "date_added": "13226493517295983",
+               "date_modified": "0",
+               "guid": "19fcbfcc-0dd0-4a46-ae74-0a830233ea0d",
+               "id": "89",
+               "name": "Allmänt",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13215859179000000",
+                  "guid": "665a0b53-c05d-42dc-af87-c9392852c5fd",
+                  "id": "92",
+                  "name": "How Bash completion works - tuzz.tech",
+                  "type": "url",
+                  "url": "https://tuzz.tech/blog/how-bash-completion-works"
+               } ],
+               "date_added": "13226493517296027",
+               "date_modified": "0",
+               "guid": "b933aa23-f64b-41b8-aaa2-fd408461f21a",
+               "id": "91",
+               "name": "bash",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13173436663000000",
+                     "guid": "e0931b1d-ecfb-4a69-83e0-a65b175faa33",
+                     "id": "95",
+                     "name": "StructureMap",
+                     "type": "url",
+                     "url": "http://structuremap.github.io/"
+                  } ],
+                  "date_added": "13226493517296080",
+                  "date_modified": "0",
+                  "guid": "0bfb5782-de73-43a2-9ff4-b9309057b50a",
+                  "id": "94",
+                  "name": "Entity framework",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13128797218000000",
+                     "guid": "3f3fdde9-7cce-43f9-8b21-cd5868d99302",
+                     "id": "97",
+                     "name": "c# - How do I import from Excel to a DataSet using Microsoft.Office.Interop.Excel? - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/7244971/how-do-i-import-from-excel-to-a-dataset-using-microsoft-office-interop-excel"
+                  }, {
+                     "date_added": "13128797263000000",
+                     "guid": "93579abc-6e07-4ede-ba81-f4bf61ee5073",
+                     "id": "98",
+                     "name": "c# - Importing Excel into a DataTable Quickly - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/17577184/importing-excel-into-a-datatable-quickly"
+                  } ],
+                  "date_added": "13226493517296110",
+                  "date_modified": "0",
+                  "guid": "9ed40168-f392-4604-8e6d-7f92ca58b469",
+                  "id": "96",
+                  "name": "Excel import",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13178026814000000",
+                     "guid": "c4feb57f-f136-4da0-8bf9-b79a5aab9a45",
+                     "id": "100",
+                     "name": "How I use Inversion of Control containers – Krzysztof Koźmic on software",
+                     "type": "url",
+                     "url": "http://kozmic.net/2010/06/20/how-i-use-inversion-of-control-containers/"
+                  }, {
+                     "date_added": "13178027172000000",
+                     "guid": "5fc58be2-2b0f-4ab5-a29c-03ea2c1fb416",
+                     "id": "101",
+                     "name": "StructureMap - Documentation",
+                     "type": "url",
+                     "url": "http://structuremap.github.io/documentation/"
+                  } ],
+                  "date_added": "13226493517296202",
+                  "date_modified": "0",
+                  "guid": "61106c8c-c350-4a67-ba05-2f346d6713f6",
+                  "id": "99",
+                  "name": "IoC",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13174395211000000",
+                     "guid": "a81eff4e-4031-4ea1-97f5-230864b6036f",
+                     "id": "103",
+                     "name": "SQL SERVER - Introduction to Service Broker and Sample Script - SQL Authority with Pinal Dave",
+                     "type": "url",
+                     "url": "https://blog.sqlauthority.com/2009/09/21/sql-server-intorduction-to-service-broker-and-sample-script/"
+                  }, {
+                     "date_added": "13178353488000000",
+                     "guid": "f5da84ec-6f6a-4275-8c9f-5e5f680760e0",
+                     "id": "104",
+                     "name": "Service Broker Message Processor Service Sample in C# for Visual Studio 2010",
+                     "type": "url",
+                     "url": "https://code.msdn.microsoft.com/Service-Broker-Message-e81c4316"
+                  }, {
+                     "date_added": "13178354158000000",
+                     "guid": "a01a6ab3-0785-4290-b621-d869764be67e",
+                     "id": "105",
+                     "name": "jdaigle/servicebroker.net: A simple wrapper API for SQL Service Broker, and an ITransport plugin for NServiceBus",
+                     "type": "url",
+                     "url": "https://github.com/jdaigle/servicebroker.net"
+                  }, {
+                     "date_added": "13178370493000000",
+                     "guid": "950bbae1-2f15-4096-ac94-1c2a61470b98",
+                     "id": "106",
+                     "name": "Service Broker - Conversation between Databases in SQL Server | The SQL Ideas",
+                     "type": "url",
+                     "url": "http://www.sqlideas.com/2011/09/service-broker-conversation-between.html"
+                  } ],
+                  "date_added": "13226493517296270",
+                  "date_modified": "0",
+                  "guid": "099c5b97-6c7f-4072-92be-af9698a8c6f9",
+                  "id": "102",
+                  "name": "Service broker",
+                  "type": "folder"
+               }, {
+                  "date_added": "13123848687000000",
+                  "guid": "ef8d943f-511d-4437-81d0-4e2a9fa68ac7",
+                  "id": "107",
+                  "name": "Quickstart · moq/moq4 Wiki",
+                  "type": "url",
+                  "url": "https://github.com/Moq/moq4/wiki/Quickstart"
+               }, {
+                  "date_added": "13129382145000000",
+                  "guid": "e19a1426-55cb-478c-8a11-a9f50f7d8618",
+                  "id": "108",
+                  "name": "c# - NUnit expected exceptions - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/3407765/nunit-expected-exceptions"
+               }, {
+                  "date_added": "13125583752000000",
+                  "guid": "fda995ba-6348-4b4c-b816-6586db971218",
+                  "id": "109",
+                  "name": "Task Parallel Library (TPL)",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/dd460717%28v=vs.110%29.aspx"
+               }, {
+                  "date_added": "13127490961000000",
+                  "guid": "020c4439-6f85-4769-8fff-6c4b19b74c09",
+                  "id": "110",
+                  "name": "Lambda Expressions (C# Programming Guide)",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/bb397687.aspx"
+               }, {
+                  "date_added": "13135676420000000",
+                  "guid": "b27c7721-9e0b-40c1-a445-43ec797f750c",
+                  "id": "111",
+                  "name": "c# - How to write output from a unit test? - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/4786884/how-to-write-output-from-a-unit-test"
+               }, {
+                  "children": [ {
+                     "date_added": "13166270470000000",
+                     "guid": "e8ad4fe2-afb4-4f6c-8b09-c7e6d57f12d6",
+                     "id": "113",
+                     "name": "What's the easiest way to create an Excel table with C#? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/4766205/whats-the-easiest-way-to-create-an-excel-table-with-c"
+                  } ],
+                  "date_added": "13226493517296591",
+                  "date_modified": "0",
+                  "guid": "61de4bdc-26fd-4fb8-9464-cb4954f411b4",
+                  "id": "112",
+                  "name": "Interop Excel",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13077879777000000",
+                     "guid": "e2e3d088-8710-4de1-9914-666cca36365b",
+                     "id": "115",
+                     "name": "Getting Started with LINQ in C#",
+                     "type": "url",
+                     "url": "https://msdn.microsoft.com/en-us/library/bb397933.aspx"
+                  } ],
+                  "date_added": "13226493517296638",
+                  "date_modified": "0",
+                  "guid": "a87b65f4-067b-428a-9045-2046947eef47",
+                  "id": "114",
+                  "name": "LINQ",
+                  "type": "folder"
+               } ],
+               "date_added": "13226493517296074",
+               "date_modified": "0",
+               "guid": "bd9db180-7dab-4a31-9c52-bf13817c26ea",
+               "id": "93",
+               "name": "C#",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13157119215000000",
+                     "guid": "544c7cd3-0605-4b10-931f-abc9d723e705",
+                     "id": "118",
+                     "name": "REST API Documentation Visa varning",
+                     "type": "url",
+                     "url": "https://www.genologics.com/developer/4-2/"
+                  }, {
+                     "date_added": "13157119381000000",
+                     "guid": "3415bb48-d9fc-42b4-8deb-5d2ccfea615a",
+                     "id": "119",
+                     "name": "Automated Removal of Controls from a Workflow / Pop up 2",
+                     "type": "url",
+                     "url": "https://genologics.zendesk.com/hc/en-us/articles/213977063-Automated-Removal-of-Controls-from-a-Workflow"
+                  } ],
+                  "date_added": "13226493517296681",
+                  "date_modified": "0",
+                  "guid": "bed16ebd-8c48-43b6-ab3b-fe399a497eca",
+                  "id": "117",
+                  "name": "Specifika problem",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13157119332000000",
+                     "guid": "d516c7e8-dab2-4a01-b78b-dfd5ce1d6c70",
+                     "id": "121",
+                     "name": "EPP / Automation Trigger Configuration / Pop up!",
+                     "type": "url",
+                     "url": "https://genologics.zendesk.com/hc/en-us/articles/115001940623-EPP-Automation-Trigger-Configuration"
+                  }, {
+                     "date_added": "13164816071000000",
+                     "guid": "c6dcf80f-c6cb-42f7-9c9b-435c1b702795",
+                     "id": "122",
+                     "name": "REST API",
+                     "type": "url",
+                     "url": "https://www.genologics.com/files/permanent/API/latest/data_stp.html#element_program-status"
+                  }, {
+                     "date_added": "13164816236000000",
+                     "guid": "afb80d22-7230-4fd0-9c69-786504078fa7",
+                     "id": "123",
+                     "name": "EPP Automation Testing – GenoLogics Customer Support",
+                     "type": "url",
+                     "url": "https://genologics.zendesk.com/hc/en-us/articles/213961463-EPP-Automation-Testing"
+                  }, {
+                     "date_added": "13164816418000000",
+                     "guid": "085ea949-8179-4a69-90fa-bd7be2820819",
+                     "id": "124",
+                     "name": "Error Handling – GenoLogics Customer Support",
+                     "type": "url",
+                     "url": "https://genologics.zendesk.com/hc/en-us/articles/213961703"
+                  } ],
+                  "date_added": "13226493517296756",
+                  "date_modified": "0",
+                  "guid": "983081df-3851-4e12-8433-233f3ee686ee",
+                  "id": "120",
+                  "name": "Gul färg",
+                  "type": "folder"
+               }, {
+                  "date_added": "13074095520000000",
+                  "guid": "d9e43d59-019e-4b81-943b-58aec58aee19",
+                  "id": "125",
+                  "name": "REST API Documentation | GenoLogics",
+                  "type": "url",
+                  "url": "https://www.genologics.com/developer"
+               }, {
+                  "date_added": "13099757293000000",
+                  "guid": "88673938-8233-4c8a-b5b2-a0c6d9841ed0",
+                  "id": "126",
+                  "name": "Lab Logic Toolkit : GenoLogics Customer Support",
+                  "type": "url",
+                  "url": "https://genologics.zendesk.com/entries/53930879-Lab-Logic-Toolkit"
+               }, {
+                  "date_added": "13099757442000000",
+                  "guid": "d42070a8-5e58-4769-a142-bacca9ad80c0",
+                  "id": "127",
+                  "name": "NanoDrop Driver File Generation : GenoLogics Customer Support",
+                  "type": "url",
+                  "url": "https://genologics.zendesk.com/entries/24080618-NanoDrop-Driver-File-Generation"
+               }, {
+                  "date_added": "13100184073000000",
+                  "guid": "976870b2-d24f-455c-b624-8c37f748ee74",
+                  "id": "128",
+                  "name": "genologics-sql’s documentation — genologics-sql 0.0.1 documentation",
+                  "type": "url",
+                  "url": "http://genologics-sql.readthedocs.org/en/latest/index.html"
+               }, {
+                  "date_added": "13085217562000000",
+                  "guid": "bdf5fb23-4f0d-4435-913b-9a497a29370a",
+                  "id": "129",
+                  "name": "SciLifeLab/genologics",
+                  "type": "url",
+                  "url": "https://github.com/SciLifeLab/genologics"
+               }, {
+                  "date_added": "13100887116000000",
+                  "guid": "9bb0ab5e-a5d9-4473-a7ca-4f55fd07fe16",
+                  "id": "130",
+                  "name": "GenoLogics Customer Support",
+                  "type": "url",
+                  "url": "https://genologics.zendesk.com/home"
+               } ],
+               "date_added": "13226493517296673",
+               "date_modified": "0",
+               "guid": "e28b8dd3-f925-4b0d-9ed7-b8f5443ac681",
+               "id": "116",
+               "name": "Clarity",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13179830299000000",
+                  "guid": "c99941e4-f947-4ee9-bbcf-a09ab06c7605",
+                  "id": "132",
+                  "name": "Eric Evans: What I've learned about DDD since the book - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=lE6Hxz4yomA"
+               }, {
+                  "date_added": "13174908578000000",
+                  "guid": "ccd47a98-29ec-48cd-9fc3-c1d5554b9af7",
+                  "id": "133",
+                  "name": "Domain-Driven Design Europe 2019",
+                  "type": "url",
+                  "url": "https://dddeurope.com/2019/"
+               }, {
+                  "date_added": "13183105872000000",
+                  "guid": "97afab5a-ca74-475c-bb72-e9ac2fc4bd14",
+                  "id": "134",
+                  "name": "An Introduction to Domain Driven Design",
+                  "type": "url",
+                  "url": "http://www.methodsandtools.com/archive/archive.php?id=97"
+               }, {
+                  "date_added": "13183105884000000",
+                  "guid": "a0c6556e-3d6f-4599-b817-8baa34a65321",
+                  "id": "135",
+                  "name": "Tito Receipt",
+                  "type": "url",
+                  "url": "https://ti.to/receipts/ppMn4RaLDpLmhzP9TmnSYoQ"
+               }, {
+                  "date_added": "13183105892000000",
+                  "guid": "93cec47b-62cf-432a-9a75-24018d8aa254",
+                  "id": "136",
+                  "name": "Edvard Englund Combo · DDD Foundations + Main Conference · Early Bird · Jan 30-Feb1 : Domain-Driven Design Europe 2019",
+                  "type": "url",
+                  "url": "https://ti.to/vo/dddeu19/registrations/p3RT9due5oBVB2ICRAh4nGw/tickets/p5rQ0tO9XLE0pH7NKCQOeSQ"
+               }, {
+                  "date_added": "13184146136000000",
+                  "guid": "e00bd3ea-8150-4c91-bafb-4ba2e871a6d2",
+                  "id": "137",
+                  "name": "CQRS, Event Sourcing and DDD FAQ - Your command-query responsibility segregation & DDD questions answered",
+                  "type": "url",
+                  "url": "http://www.cqrs.nu/faq"
+               } ],
+               "date_added": "13226493517297056",
+               "date_modified": "0",
+               "guid": "8a1a9145-fc1d-4f45-b920-d8c507eb1f39",
+               "id": "131",
+               "name": "DDD",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13188659095000000",
+                     "guid": "f748c207-6d07-4e88-a1af-7dc8a32b4fac",
+                     "id": "140",
+                     "name": "Grok filter plugin | Logstash Reference [6.5] | Elastic",
+                     "type": "url",
+                     "url": "https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html"
+                  }, {
+                     "date_added": "13188659107000000",
+                     "guid": "cf89168a-46ec-442e-8837-bceb140423ef",
+                     "id": "141",
+                     "name": "Grok Debugger",
+                     "type": "url",
+                     "url": "https://grokdebug.herokuapp.com/"
+                  }, {
+                     "date_added": "13188665811000000",
+                     "guid": "3223639f-4c35-42ae-85a1-ca2aad2e27d3",
+                     "id": "142",
+                     "name": "logstash/grok-patterns at v1.4.2 · elastic/logstash · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/elastic/logstash/blob/v1.4.2/patterns/grok-patterns"
+                  }, {
+                     "date_added": "13195907634000000",
+                     "guid": "c1524f46-9958-40e6-8d60-6d6b94183bc7",
+                     "id": "143",
+                     "name": "source",
+                     "type": "url",
+                     "url": "https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index"
+                  }, {
+                     "date_added": "13196344055000000",
+                     "guid": "e28af61a-e8a1-4a62-988b-bb86f950fd9f",
+                     "id": "144",
+                     "name": "bash",
+                     "type": "url",
+                     "url": "https://app.pluralsight.com/library/history"
+                  } ],
+                  "date_added": "13226493517297263",
+                  "date_modified": "0",
+                  "guid": "dedd3805-4cb3-4f3c-aa28-007e1c184fc7",
+                  "id": "139",
+                  "name": "Grok",
+                  "type": "folder"
+               }, {
+                  "date_added": "13181148140000000",
+                  "guid": "04a5e225-c585-4817-8d10-169490568760",
+                  "id": "145",
+                  "name": "ELK Stack: Elasticsearch, Logstash, Kibana | Elastic",
+                  "type": "url",
+                  "url": "https://www.elastic.co/elk-stack"
+               }, {
+                  "date_added": "13181148270000000",
+                  "guid": "f00bf060-93af-4510-b284-1cd3fc70e523",
+                  "id": "146",
+                  "name": "Kibana: Explore, Visualize, Discover Data | Elastic",
+                  "type": "url",
+                  "url": "https://www.elastic.co/products/kibana"
+               }, {
+                  "date_added": "13181206213000000",
+                  "guid": "6e6af0ca-f423-4d47-a7e4-b20877d95707",
+                  "id": "147",
+                  "name": "Get Started with Elasticsearch, Kibana, X-Pack | Elastic",
+                  "type": "url",
+                  "url": "https://www.elastic.co/start"
+               }, {
+                  "date_added": "13186668835000000",
+                  "guid": "a5bfdfb4-599c-454e-be5c-33525c3ef9c1",
+                  "id": "148",
+                  "name": "Secure communication with Logstash by using SSL | Filebeat Reference [6.4] | Elastic",
+                  "type": "url",
+                  "url": "https://www.elastic.co/guide/en/beats/filebeat/current/configuring-ssl-logstash.html"
+               } ],
+               "date_added": "13226493517297257",
+               "date_modified": "0",
+               "guid": "048a4401-1d86-4090-bef1-b2192b3630c6",
+               "id": "138",
+               "name": "Elk",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13068831508000000",
+                  "guid": "6ef969f1-31c2-4600-acae-305064627004",
+                  "id": "150",
+                  "name": "Range.Find Method (Excel)",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/office/ff839746.aspx"
+               } ],
+               "date_added": "13226493517297519",
+               "date_modified": "0",
+               "guid": "166d621e-1654-4d11-bdd7-82eba726ef17",
+               "id": "149",
+               "name": "Excel macro",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13068809234000000",
+                  "guid": "4ae3de9c-123e-4d35-be10-2987bc576475",
+                  "id": "152",
+                  "name": "Groovy - Running Groovy on .NET 2.0 using IKVM",
+                  "type": "url",
+                  "url": "http://groovy.codehaus.org/Running+Groovy+on+.NET+2.0+using+IKVM"
+               }, {
+                  "date_added": "13068809329000000",
+                  "guid": "cfabbe37-c31a-4a4e-b7e7-cf8852c77fb7",
+                  "id": "153",
+                  "name": ".net - Is there an equivalent to Groovy in C#? - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/753753/is-there-an-equivalent-to-groovy-in-c"
+               } ],
+               "date_added": "13226493517297554",
+               "date_modified": "0",
+               "guid": "0e2b5a4a-2d11-494f-8b6c-95c96ea1f372",
+               "id": "151",
+               "name": "Groovy",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13184231768000000",
+                  "guid": "02c7ca3f-aa6b-4093-bd7d-1dffc2de74ea",
+                  "id": "155",
+                  "name": "badssl.com",
+                  "type": "url",
+                  "url": "https://badssl.com/"
+               }, {
+                  "date_added": "13184313842000000",
+                  "guid": "95846fcf-991d-4129-93b3-b4f13d793666",
+                  "id": "156",
+                  "name": "The Most Common OpenSSL Commands",
+                  "type": "url",
+                  "url": "https://www.sslshopper.com/article-most-common-openssl-commands.html"
+               }, {
+                  "date_added": "13184757946000000",
+                  "guid": "eb52c6b4-ce30-411d-bd00-54a75cf7975a",
+                  "id": "157",
+                  "name": "Adding trusted root certificates to the server",
+                  "type": "url",
+                  "url": "https://manuals.gfi.com/en/kerio/connect/content/server-configuration/ssl-certificates/adding-trusted-root-certificates-to-the-server-1605.html"
+               } ],
+               "date_added": "13226493517297631",
+               "date_modified": "0",
+               "guid": "fa585a6d-3c17-4a66-a9d0-25f0049ea43c",
+               "id": "154",
+               "name": "https",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13179830509000000",
+                  "guid": "0e7e986d-9a89-4ea9-9419-76d89b947093",
+                  "id": "159",
+                  "name": "How to: Host a WCF Service in IIS | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-host-a-wcf-service-in-iis"
+               }, {
+                  "date_added": "13181148044000000",
+                  "guid": "48089833-5bd0-4245-bc3d-45700b8063a9",
+                  "id": "160",
+                  "name": "how to host wcf service on windows service - Sök på Google",
+                  "type": "url",
+                  "url": "https://www.google.se/search?q=how+to+host+wcf+service+on+windows+service&oq=how+to+host+wcf+service+on+window&aqs=chrome.1.69i57j0l5.13717j0j9&sourceid=chrome&ie=UTF-8"
+               } ],
+               "date_added": "13226493517297746",
+               "date_modified": "0",
+               "guid": "3d0fcb47-5795-4ad3-b7f1-44c4ae016e52",
+               "id": "158",
+               "name": "IIS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13226493517297831",
+                  "date_modified": "13226493517297831",
+                  "guid": "88e17a16-1b60-476a-9379-3d268e34eedb",
+                  "id": "162",
+                  "name": ".Net beprövade lösningar och designmönster",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13174391611000000",
+                     "guid": "84077d7a-8c79-4c8c-a41f-c52791a5317d",
+                     "id": "164",
+                     "name": "Domain Events – Salvation",
+                     "type": "url",
+                     "url": "http://udidahan.com/2009/06/14/domain-events-salvation/"
+                  }, {
+                     "date_added": "13174391672000000",
+                     "guid": "5350f97d-1911-41ff-98bc-8fd8fb5bb30b",
+                     "id": "165",
+                     "name": "Stuff++: Getting started with DDD when surrounded by Legacy systems II, by Eric Evans",
+                     "type": "url",
+                     "url": "http://fernmac.blogspot.com/2012/04/getting-started-with-ddd-when.html"
+                  }, {
+                     "date_added": "13174391919000000",
+                     "guid": "53b9f840-340a-439f-9d7e-139c4e633d73",
+                     "id": "166",
+                     "name": "Jimmy Nilsson",
+                     "type": "url",
+                     "url": "https://dddeurope.com/2017/speakers/jimmy-nilsson/"
+                  } ],
+                  "date_added": "13226493517297837",
+                  "date_modified": "0",
+                  "guid": "d045910c-a77f-4c23-8d60-becf8aee98e6",
+                  "id": "163",
+                  "name": "Domain driven design",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13116067390000000",
+                     "guid": "f764ceca-147f-4662-9ca7-df58806d0993",
+                     "id": "168",
+                     "name": "Free Pluralsight 6 Month Subscription",
+                     "type": "url",
+                     "url": "https://absolute-sharepoint.com/2015/12/free-pluralsight-6-month-subscription.html"
+                  } ],
+                  "date_added": "13226493517297928",
+                  "date_modified": "0",
+                  "guid": "ee2bee7a-d701-45dc-b0c2-2c8710d4e1e5",
+                  "id": "167",
+                  "name": "Erbjudanden",
+                  "type": "folder"
+               }, {
+                  "date_added": "13068559344000000",
+                  "guid": "adcd5c34-5038-49aa-8df5-b1111139dd7e",
+                  "id": "169",
+                  "name": "Functional Programming Principles in Scala",
+                  "type": "url",
+                  "url": "https://www.coursera.org/course/progfun"
+               }, {
+                  "date_added": "13070721028000000",
+                  "guid": "3e2b10cd-3a2b-4b2d-9703-39f3a55a46cc",
+                  "id": "170",
+                  "name": "Coursera",
+                  "type": "url",
+                  "url": "https://class.coursera.org/progfun-005/auth"
+               }, {
+                  "date_added": "13087395303000000",
+                  "guid": "49deba4a-f23c-448c-b80c-653bd4fadd94",
+                  "id": "171",
+                  "name": "Learning Tree – utbildning och certifiering inom IT, ledarskap och projektledning",
+                  "type": "url",
+                  "url": "http://www.learningtree.se/"
+               }, {
+                  "date_added": "13092830842000000",
+                  "guid": "67f3cf41-0d42-46c7-8618-e4be633189ec",
+                  "id": "172",
+                  "name": "Översikt My Learning Tree-kontot | Learning Tree",
+                  "type": "url",
+                  "url": "https://www2.learningtree.se/mylearningtree/overview.aspx"
+               }, {
+                  "date_added": "13100348575000000",
+                  "guid": "2202f0f0-e834-4c4e-a38e-29c981657923",
+                  "id": "173",
+                  "name": "Pluralsight | Unlimited, online training for IT, Developer and Creative pros",
+                  "type": "url",
+                  "url": "https://www.pluralsight.com/"
+               }, {
+                  "date_added": "13104939935000000",
+                  "guid": "e9c65567-3188-45c0-a394-0f28d49a02b1",
+                  "id": "174",
+                  "name": "Eventbrite -",
+                  "type": "url",
+                  "url": "https://www.eventbrite.com/u/172780731718/"
+               }, {
+                  "date_added": "13134215613000000",
+                  "guid": "20bc0bfc-c262-41f7-9dac-82eb16a26069",
+                  "id": "175",
+                  "name": "Dashboard | Pluralsight",
+                  "type": "url",
+                  "url": "https://app.pluralsight.com/library/?modal=visual-studio-dev-essentials"
+               }, {
+                  "date_added": "13153403078000000",
+                  "guid": "2fcff601-5869-44cf-a7e9-b4a37dd737cc",
+                  "id": "176",
+                  "name": "Cornerstone - Utbildning för IT-proffs, utvecklare, ledare och medarbetare",
+                  "type": "url",
+                  "url": "https://www.cornerstone.se/"
+               } ],
+               "date_added": "13226493517297826",
+               "date_modified": "0",
+               "guid": "2db1a674-2982-4915-8c69-73c8314da810",
+               "id": "161",
+               "name": "Kurser",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13164890362000000",
+                  "guid": "94411e9b-aa12-4ca1-ac95-9422dc518620",
+                  "id": "178",
+                  "name": "GAuth Authenticator - Chrome Web Store",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl"
+               }, {
+                  "date_added": "13184142374000000",
+                  "guid": "190878c1-e07e-4541-9e25-62f282ac21a0",
+                  "id": "179",
+                  "name": "Determine Your Private and Public IP Addresses from the Command Line | Linux Training Academy",
+                  "type": "url",
+                  "url": "https://www.linuxtrainingacademy.com/determine-public-ip-address-command-line-curl/"
+               }, {
+                  "date_added": "13184152402000000",
+                  "guid": "88c1a694-e3c4-4a43-9dbc-b10f4f5b752a",
+                  "id": "180",
+                  "name": "Copy the contents of a file into the clipboard without displaying its contents - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/211817/copy-the-contents-of-a-file-into-the-clipboard-without-displaying-its-contents"
+               }, {
+                  "date_added": "13184774380000000",
+                  "guid": "cd086e07-f553-4cc3-a69b-46af7c16e628",
+                  "id": "181",
+                  "name": "software installation - How do I install applications in Ubuntu? - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/307280/how-do-i-install-applications-in-ubuntu"
+               } ],
+               "date_added": "13226493517298176",
+               "date_modified": "0",
+               "guid": "4e5a58e2-ad90-47f1-bf26-325628f7a51c",
+               "id": "177",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13100184367000000",
+                     "guid": "432e6dfb-0a8b-42d9-8f1f-f1e410a1aa75",
+                     "id": "184",
+                     "name": "BeginnersGuide/Programmers - Python Wiki",
+                     "type": "url",
+                     "url": "https://wiki.python.org/moin/BeginnersGuide/Programmers"
+                  }, {
+                     "date_added": "13100613829000000",
+                     "guid": "2859ddb5-521e-482f-a97a-b4686a3f917e",
+                     "id": "185",
+                     "name": "Overview — Python 3.5.1 documentation",
+                     "type": "url",
+                     "url": "https://docs.python.org/3/"
+                  }, {
+                     "date_added": "13100614310000000",
+                     "guid": "f779f543-916d-4d37-9d97-0925f646f16f",
+                     "id": "186",
+                     "name": "Welcome to Python.org",
+                     "type": "url",
+                     "url": "https://www.python.org/"
+                  }, {
+                     "date_added": "13100869913000000",
+                     "guid": "2a45944a-7a39-41ac-a022-177b0daf81e8",
+                     "id": "187",
+                     "name": "PyPI - the Python Package Index : Python Package Index",
+                     "type": "url",
+                     "url": "https://pypi.python.org/pypi"
+                  }, {
+                     "date_added": "13117033400000000",
+                     "guid": "a41a0edc-20d0-47a5-96e4-eea549568744",
+                     "id": "188",
+                     "name": "Project Jupyter | Home",
+                     "type": "url",
+                     "url": "http://jupyter.org/"
+                  } ],
+                  "date_added": "13226493517298336",
+                  "date_modified": "0",
+                  "guid": "8c50b87c-8468-4d2b-a002-adf86f9aac5f",
+                  "id": "183",
+                  "name": "Allmänna sidor",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13196772283000000",
+                     "guid": "b90de825-aba8-4762-a0ba-177524a7f6b2",
+                     "id": "190",
+                     "name": "Getting started with pytest and pytest-django — pytest-django documentation",
+                     "type": "url",
+                     "url": "https://pytest-django.readthedocs.io/en/latest/tutorial.html"
+                  }, {
+                     "date_added": "13196772473000000",
+                     "guid": "f24c9819-8d41-4843-856e-1d008fafa8e8",
+                     "id": "191",
+                     "name": "pytest-django Documentation — pytest-django documentation",
+                     "type": "url",
+                     "url": "https://pytest-django.readthedocs.io/en/latest/"
+                  } ],
+                  "date_added": "13226493517298463",
+                  "date_modified": "0",
+                  "guid": "b55e2ee6-6cc9-4594-a3f9-9b43569e2a5e",
+                  "id": "189",
+                  "name": "Django",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13110011516000000",
+                     "guid": "8327605e-5c3f-4b6f-9c0d-a0d89d8814a1",
+                     "id": "193",
+                     "name": "Create a dictionary with list comprehension in Python - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/1747817/create-a-dictionary-with-list-comprehension-in-python"
+                  }, {
+                     "date_added": "13110012237000000",
+                     "guid": "3eb26618-db6d-498f-8e0a-0e4fc2b6c99e",
+                     "id": "194",
+                     "name": "Visualizing branch topology in git - Stack Overflow",
+                     "type": "url",
+                     "url": "http://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git"
+                  } ],
+                  "date_added": "13226493517298523",
+                  "date_modified": "0",
+                  "guid": "f83eeb72-a26b-4cc1-bc7a-6bda0a2c81be",
+                  "id": "192",
+                  "name": "Specifika kommandon och trix",
+                  "type": "folder"
+               }, {
+                  "date_added": "13107516583000000",
+                  "guid": "767ac195-e782-4339-8ef3-2d970cbae4e9",
+                  "id": "195",
+                  "name": "PyCon Sweden 2016 Tickets, Mon, May 9, 2016 at 9:00 AM | Eventbrite",
+                  "type": "url",
+                  "url": "https://www.eventbrite.com/e/pycon-sweden-2016-tickets-23824485678?utm_campaign=reminder_attendees_48hour_email&utm_medium=email&utm_source=eb_email&utm_term=eventname"
+               }, {
+                  "date_added": "13219159657000000",
+                  "guid": "d67753b6-05a1-4d33-9fc2-249a88dc7ef7",
+                  "id": "196",
+                  "name": "pytest-cov · PyPI",
+                  "type": "url",
+                  "url": "https://pypi.org/project/pytest-cov/"
+               }, {
+                  "date_added": "13219161648000000",
+                  "guid": "4b938326-c82c-46f2-b93e-1b8aaf478423",
+                  "id": "197",
+                  "name": "Reporting — pytest-cov 2.8.1 documentation",
+                  "type": "url",
+                  "url": "https://pytest-cov.readthedocs.io/en/latest/reporting.html"
+               }, {
+                  "date_added": "13223044468000000",
+                  "guid": "3d4fc54b-9c36-4086-afdf-97e2dac24881",
+                  "id": "198",
+                  "name": "sw",
+                  "type": "url",
+                  "url": "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
+               } ],
+               "date_added": "13226493517298330",
+               "date_modified": "0",
+               "guid": "cc2596f2-8c83-4184-b54e-7b200b27f20e",
+               "id": "182",
+               "name": "Python",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13061381951000000",
+                  "guid": "93ef63af-5548-452e-ad5e-70f400542805",
+                  "id": "200",
+                  "name": "Robocopy",
+                  "type": "url",
+                  "url": "http://technet.microsoft.com/en-us/library/cc733145.aspx"
+               } ],
+               "date_added": "13226493517298726",
+               "date_modified": "0",
+               "guid": "e9ecef4d-73cc-45cb-88e2-4ff69354c9e4",
+               "id": "199",
+               "name": "Windows 7",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13066847581000000",
+                  "guid": "37367b00-c2ba-4ff8-b505-a890ed66a0c5",
+                  "id": "202",
+                  "name": "How to save a perfmon Performance Counter as a textfile (Reliability and Performance Monitor Version 6.0) - Server Fault",
+                  "type": "url",
+                  "url": "http://serverfault.com/questions/124182/how-to-save-a-perfmon-performance-counter-as-a-textfile-reliability-and-perform"
+               }, {
+                  "date_added": "13066849549000000",
+                  "guid": "7a84ae8a-fc87-4367-a260-d740e070b17a",
+                  "id": "203",
+                  "name": "SQL Server memory performance metrics – Part 1 – Memory pages/sec and Memory page faults/sec - SQL Shack - articles about database auditing, server performance, data recovery, and more",
+                  "type": "url",
+                  "url": "http://www.sqlshack.com/sql-server-memory-performance-metrics-part-1-memory-pagessec-memory-page-faultssec/"
+               }, {
+                  "date_added": "13070358127000000",
+                  "guid": "b0c80921-f32e-47c9-bedc-dcd12770128c",
+                  "id": "204",
+                  "name": "How to monitor Web server performance by using counter logs in System Monitor in IIS",
+                  "type": "url",
+                  "url": "http://support2.microsoft.com/kb/313064"
+               }, {
+                  "date_added": "13070633710000000",
+                  "guid": "65fdeb0f-2ca7-4bf1-a98e-e990e4128883",
+                  "id": "205",
+                  "name": "Why is my web application slow? | Caveman's Blog",
+                  "type": "url",
+                  "url": "https://cavemansblog.wordpress.com/2010/04/16/why-is-my-web-application-slow/"
+               } ],
+               "date_added": "13226493517298759",
+               "date_modified": "0",
+               "guid": "27ce5650-8179-4bf8-a7a5-937b94a9c040",
+               "id": "201",
+               "name": "Windows Server 2012",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13072352053000000",
+                  "guid": "be620ab6-1065-4247-944d-0eba59f79a7b",
+                  "id": "207",
+                  "name": "Scala Standard Library 2.11.6 - root - Scala Standard Library 2.11.6 - _root_",
+                  "type": "url",
+                  "url": "http://www.scala-lang.org/api/current/#package"
+               }, {
+                  "date_added": "13072352067000000",
+                  "guid": "1829498d-00ff-4f26-b68b-a5925f67aa12",
+                  "id": "208",
+                  "name": "Scala School",
+                  "type": "url",
+                  "url": "http://twitter.github.io/scala_school/"
+               }, {
+                  "date_added": "13072352077000000",
+                  "guid": "75bf9955-9375-4dd9-975a-d296cd26a7b1",
+                  "id": "209",
+                  "name": "Introduction - Scala Documentation",
+                  "type": "url",
+                  "url": "http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html"
+               }, {
+                  "date_added": "13072352087000000",
+                  "guid": "a3d162f1-1251-4f12-bffc-2210c89eef1b",
+                  "id": "210",
+                  "name": "'scala' tag wiki - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/tags/scala/info"
+               } ],
+               "date_added": "13226493517298918",
+               "date_modified": "0",
+               "guid": "7d5f38df-4de5-4bc7-9813-50671346f1c8",
+               "id": "206",
+               "name": "Scala",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13111495526000000",
+                  "guid": "8d9f4538-9adf-4603-a56f-fb5f4544d905",
+                  "id": "212",
+                  "name": "SQL Server loop - how do I loop through a set of records - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/20662356/sql-server-loop-how-do-i-loop-through-a-set-of-records"
+               }, {
+                  "date_added": "13111495938000000",
+                  "guid": "50b9d13c-bf36-4f9f-932e-9de280b59439",
+                  "id": "213",
+                  "name": "sql server - How to perform an IF...THEN in an SQL SELECT? - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/63447/how-to-perform-an-if-then-in-an-sql-select"
+               }, {
+                  "date_added": "13111844130000000",
+                  "guid": "ab89fba9-6a3d-42a7-875c-1f25a424f7e6",
+                  "id": "214",
+                  "name": "Certificate Signing Stored Procedures in Multiple Databases - Jonathan Kehayias",
+                  "type": "url",
+                  "url": "https://www.sqlskills.com/blogs/jonathan/certificate-signing-stored-procedures-in-multiple-databases/"
+               }, {
+                  "date_added": "13111844147000000",
+                  "guid": "37210476-b32d-44ca-9634-65fcf411798b",
+                  "id": "215",
+                  "name": "Tutorial: Signing Stored Procedures with a Certificate",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/bb283630.aspx"
+               } ],
+               "date_added": "13226493517299032",
+               "date_modified": "0",
+               "guid": "919bac29-c51f-4a0c-b8fe-9d4fedb80d9f",
+               "id": "211",
+               "name": "SQL",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13136470353000000",
+                  "guid": "8b8daf04-c6be-43c0-a223-ce29b6ce28f6",
+                  "id": "217",
+                  "name": "Google Testing Blog: TotT",
+                  "type": "url",
+                  "url": "https://testing.googleblog.com/search/label/TotT"
+               }, {
+                  "date_added": "13136470770000000",
+                  "guid": "74e05487-26f7-4892-b5e6-6b2ebdcc67f3",
+                  "id": "218",
+                  "name": "Unit Testing Lessons in Ruby, Java and .NET - The Art Of Unit Testing - C#",
+                  "type": "url",
+                  "url": "http://artofunittesting.com/"
+               }, {
+                  "date_added": "13136470891000000",
+                  "guid": "5e7b4207-943a-473c-b0ae-0a041ddd6c22",
+                  "id": "219",
+                  "name": "Pinboard: bookmarks for osmyn tagged 'unit-test'",
+                  "type": "url",
+                  "url": "https://pinboard.in/u:osmyn/t:unit-test/"
+               } ],
+               "date_added": "13226493517299184",
+               "date_modified": "0",
+               "guid": "5acf5fd0-3872-4080-b6a7-b6254b442fdd",
+               "id": "216",
+               "name": "UnitTesting",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13184067579000000",
+                  "guid": "7d9d3ebc-88f0-425a-8409-8c91d692b0c9",
+                  "id": "221",
+                  "name": "Discover Vagrant Boxes - Vagrant Cloud",
+                  "type": "url",
+                  "url": "https://app.vagrantup.com/boxes/search"
+               }, {
+                  "date_added": "13184068421000000",
+                  "guid": "7dfd3b4e-6e3d-4ae0-a1b9-7fc5d3620e2b",
+                  "id": "222",
+                  "name": "VM in virtualbox is already locked for a session (or being unlocked) - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/35169724/vm-in-virtualbox-is-already-locked-for-a-session-or-being-unlocked"
+               } ],
+               "date_added": "13226493517299276",
+               "date_modified": "0",
+               "guid": "9ae1079d-9e53-4ebb-9a0d-24a968b09fce",
+               "id": "220",
+               "name": "Vagrant",
+               "type": "folder"
+            }, {
+               "date_added": "13060956402000000",
+               "guid": "c41529a6-ae84-409e-9dcf-a88547f64328",
+               "id": "223",
+               "name": "Msdn forums",
+               "type": "url",
+               "url": "https://social.msdn.microsoft.com/Forums/en-US/home"
+            }, {
+               "date_added": "13060956482000000",
+               "guid": "1c83093c-e9eb-4857-9cf8-2c28f7412fb1",
+               "id": "224",
+               "name": "Msdn forums transact-SQL",
+               "type": "url",
+               "url": "https://social.msdn.microsoft.com/Forums/en-US/home?forum=transactsql&filter=alltypes&sort=lastpostdesc"
+            }, {
+               "date_added": "13060956561000000",
+               "guid": "0bfe6b49-3cca-4b7b-98aa-c05e5a61817d",
+               "id": "225",
+               "name": "Msdn forums C#",
+               "type": "url",
+               "url": "https://social.msdn.microsoft.com/Forums/en-US/home?forum=csharpgeneral&filter=alltypes&sort=lastpostdesc"
+            } ],
+            "date_added": "13226493517295874",
+            "date_modified": "0",
+            "guid": "c727b6b2-7319-40e4-8453-9a1192cf7c69",
+            "id": "88",
+            "name": "Programmering",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13061309757000000",
+               "guid": "36576937-9328-4ce5-b4b8-baffa939c8a3",
+               "id": "227",
+               "name": "- svensk översättning - bab.la engelsk-svenskt lexikon",
+               "type": "url",
+               "url": "http://sv.bab.la/lexikon/engelsk-svensk"
+            }, {
+               "date_added": "13062169186000000",
+               "guid": "8bdb20ea-7272-4594-9e5d-bc8a177e6398",
+               "id": "228",
+               "name": "Wikipedia, the free encyclopedia",
+               "type": "url",
+               "url": "http://en.wikipedia.org/wiki/Main_Page"
+            }, {
+               "date_added": "13062169210000000",
+               "guid": "666ab1c1-17f1-4638-85be-a3a00c877a44",
+               "id": "229",
+               "name": "Wikipedia, den fria encyklopedin",
+               "type": "url",
+               "url": "http://sv.wikipedia.org/wiki/Portal:Huvudsida"
+            }, {
+               "date_added": "13067967901000000",
+               "guid": "98ae32a5-98a9-4707-a740-80b65ecb1276",
+               "id": "230",
+               "name": "Home : Oxford English Dictionary",
+               "type": "url",
+               "url": "http://www.oed.com/"
+            }, {
+               "date_added": "13068724800000000",
+               "guid": "79f7c66f-2992-4c34-ade4-ccf989076508",
+               "id": "231",
+               "name": "Wiktionary, the free dictionary",
+               "type": "url",
+               "url": "http://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+            } ],
+            "date_added": "13226493517299449",
+            "date_modified": "0",
+            "guid": "3536d0c7-29af-4d9a-9f2f-f3cb44d2306d",
+            "id": "226",
+            "name": "Uppslagsverk",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13170248274000000",
+                  "guid": "2315ff8c-7f62-4324-85e5-f78910e8f035",
+                  "id": "234",
+                  "name": "SurveyMonkey - Insamlareuppgifter",
+                  "type": "url",
+                  "url": "https://sv.surveymonkey.com/collect/?sm=Qag9wO4F3OlUcmJz0ukeEM_2F0SVkXEQtwnSn8lrtF5NC2KyDgiGc6LFzDqbJV41BQ&send_survey=true"
+               }, {
+                  "date_added": "13171026286000000",
+                  "guid": "8e3b2c7e-df38-4f14-8455-bcf0c1c79ca9",
+                  "id": "235",
+                  "name": "Alnäs | KFUM Uppsala",
+                  "type": "url",
+                  "url": "https://uppsala.kfum.se/alnas/"
+               } ],
+               "date_added": "13226493517299836",
+               "date_modified": "0",
+               "guid": "ca97f3ba-14d5-44c6-8b5c-e22f0b5a9af5",
+               "id": "233",
+               "name": "Festen",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13226493517299923",
+                  "date_modified": "13226493517299923",
+                  "guid": "0152c7d8-b2ec-4667-a88b-53097c53d945",
+                  "id": "237",
+                  "name": "Intressanta",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13102779165000000",
+                     "guid": "7a15689a-1d79-48ac-99ad-eebf62dbabeb",
+                     "id": "239",
+                     "name": "Lediga anställningar - SLU - Sveriges lantbruksuniversitet",
+                     "type": "url",
+                     "url": "http://www.slu.se/sv/for-dig-som/lediga-anstallningar/"
+                  }, {
+                     "date_added": "13102779213000000",
+                     "guid": "7e5d4abb-9f79-4b9b-a374-47d558d9d6b4",
+                     "id": "240",
+                     "name": "Lediga jobb vid Uppsala universitet - Uppsala universitet",
+                     "type": "url",
+                     "url": "http://www.uu.se/jobb/"
+                  }, {
+                     "date_added": "13103032288000000",
+                     "guid": "de843175-c9b1-4d97-a2a6-43ac16f748ee",
+                     "id": "241",
+                     "name": "Uppsala Monitoring Centre - who-umc.org",
+                     "type": "url",
+                     "url": "http://www.who-umc.org/"
+                  } ],
+                  "date_added": "13226493517299929",
+                  "date_modified": "0",
+                  "guid": "cb8c65a8-48f3-4999-bef1-0c5eff72d8b1",
+                  "id": "238",
+                  "name": "Alla",
+                  "type": "folder"
+               } ],
+               "date_added": "13226493517299911",
+               "date_modified": "0",
+               "guid": "05cf4276-33a4-4cfd-adfa-4287dd3ee342",
+               "id": "236",
+               "name": "Jobb",
+               "type": "folder"
+            }, {
+               "date_added": "13061396378000000",
+               "guid": "8c4d4140-5454-4499-a718-3019271e41c9",
+               "id": "242",
+               "name": "Almanacka 2014 - Din kalender på Internet!",
+               "type": "url",
+               "url": "http://www.dinstartsida.se/almanacka.asp"
+            }, {
+               "date_added": "13061917546000000",
+               "guid": "4e01d92c-e6ec-4910-bf44-14eef9a3508e",
+               "id": "243",
+               "name": "YouTube",
+               "type": "url",
+               "url": "http://www.youtube.com/"
+            }, {
+               "date_added": "13065278932000000",
+               "guid": "ba300027-3103-4480-a786-e2f14c3db889",
+               "id": "244",
+               "name": "Akademiska Hus | Felanmälan",
+               "type": "url",
+               "url": "http://www.akademiskahus.se/vara-kunskapsmiljoer/forvaltning/felanmalan/"
+            }, {
+               "date_added": "13129644564000000",
+               "guid": "f014bb79-dc4c-4bbe-b4e7-e6173c9aa330",
+               "id": "245",
+               "name": "Friskvårdsbidrag - manual - Uppsala universitet",
+               "type": "url",
+               "url": "https://mp.uu.se/web/info/anstallning/manualer-anstallning/manual-friskvard"
+            }, {
+               "date_added": "13133370346000000",
+               "guid": "4a2c4ea0-0f50-4aca-b597-cd874860d837",
+               "id": "246",
+               "name": "Reformationsmusik – Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/0B6BTk924G-vib1VsLXQ3dUVod00"
+            }, {
+               "date_added": "13147186644000000",
+               "guid": "72043a59-9c45-4fd1-9d0a-c7e932b64562",
+               "id": "247",
+               "name": "www.temperatur.nu/uppsala.html",
+               "type": "url",
+               "url": "http://www.temperatur.nu/uppsala.html"
+            }, {
+               "date_added": "13157115153000000",
+               "guid": "0b33e69f-4c31-4300-88b1-3317ced64817",
+               "id": "248",
+               "name": "Handling of argv on windows platform · Issue #536 · pallets/click",
+               "type": "url",
+               "url": "https://github.com/pallets/click/issues/536"
+            }, {
+               "date_added": "13169308884000000",
+               "guid": "4d4beb33-ab47-4ead-b8cb-21835f387a11",
+               "id": "249",
+               "name": "Sommarfest | Doodle",
+               "type": "url",
+               "url": "https://doodle.com/poll/5gu6gbv2imatsq28"
+            } ],
+            "date_added": "13226493517299697",
+            "date_modified": "0",
+            "guid": "a95b28cb-9c19-4a9e-9ab2-2e1f758b0f28",
+            "id": "232",
+            "name": "Övrigt",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13229177417407436",
+               "guid": "c342ef58-37f2-4673-bea2-c12f78f13fe9",
+               "id": "295",
+               "name": "Edvards ToDo5 | Trello",
+               "type": "url",
+               "url": "https://trello.com/b/Hfu3D56S/edvards-todo5"
+            }, {
+               "date_added": "13078393139000000",
+               "guid": "dbf47831-9f15-44f0-bcd4-72ba2e1c2260",
+               "id": "253",
+               "name": "snpseq-chiasma | National Genomics Infrastructure (NGI) Slack",
+               "type": "url",
+               "url": "https://ngi-uu.slack.com/messages/snpseq-chiasma/"
+            }, {
+               "date_added": "13188658510000000",
+               "guid": "ae397740-24d2-45b8-9498-93688bd31830",
+               "id": "251",
+               "name": "Outlook",
+               "type": "url",
+               "url": "https://mail.uu.se/owa/auth/logon.aspx?url=https%3a%2f%2fmail.uu.se%2fowa%2f%23authRedirect%3dtrue&reason=0"
+            }, {
+               "date_added": "13061316502000000",
+               "guid": "a45f69aa-71d0-49cb-9a89-e013c8e55f8c",
+               "id": "252",
+               "name": "Logga in på Yahoo",
+               "type": "url",
+               "url": "https://login.yahoo.com/config/login?.src=fpctx&.intl=se&.done=https%3A%2F%2Fse.yahoo.com%2F"
+            }, {
+               "date_added": "13092147345000000",
+               "guid": "4884b4d6-0a90-400d-9272-975dba3b8930",
+               "id": "254",
+               "name": "Dashboard - Confluence",
+               "type": "url",
+               "url": "https://snpseq.atlassian.net/wiki/#all-updates"
+            }, {
+               "date_added": "13097919117000000",
+               "guid": "e043f1a5-a608-45c2-af8c-d653d98056a7",
+               "id": "255",
+               "name": "System Dashboard - JIRA",
+               "type": "url",
+               "url": "https://snpseq.atlassian.net/secure/Dashboard.jspa"
+            }, {
+               "date_added": "13218713743000000",
+               "guid": "243df53a-60e0-487d-b333-724d10de84b8",
+               "id": "256",
+               "name": "CANEA ONE - Edvard Englund",
+               "type": "url",
+               "url": "http://canea.snpseq.medsci.uu.se/Start/MyPage"
+            }, {
+               "date_added": "13150991746000000",
+               "guid": "10d15763-3a85-4ecf-af86-4001047900cd",
+               "id": "257",
+               "name": "Uppsala University, Department of Medical Sciences, Molecular Medicine",
+               "type": "url",
+               "url": "https://github.com/Molmed"
+            }, {
+               "date_added": "13212589224000000",
+               "guid": "5856b461-e3db-45dd-b5ad-c5ae8fc63169",
+               "id": "258",
+               "name": "Common LIMS",
+               "type": "url",
+               "url": "https://github.com/commonlims"
+            }, {
+               "date_added": "13146934016000000",
+               "guid": "c0185583-0799-41bf-b9fc-ab23579c1e9e",
+               "id": "259",
+               "name": "GitEdvard",
+               "type": "url",
+               "url": "https://github.com/GitEdvard"
+            }, {
+               "date_added": "13092147449000000",
+               "guid": "dd0a79ec-4ed1-4ff6-89d6-6ea62df18eba",
+               "id": "260",
+               "name": "Molmed/chiasma",
+               "type": "url",
+               "url": "https://github.com/Molmed/chiasma"
+            }, {
+               "date_added": "13109761541000000",
+               "guid": "77c45ba2-70d8-4864-a19f-09e778e8ac75",
+               "id": "261",
+               "name": "GitEdvard/clarity-ext: Extensions for Clarity",
+               "type": "url",
+               "url": "https://github.com/GitEdvard/clarity-ext"
+            }, {
+               "date_added": "13109849536000000",
+               "guid": "25693189-4795-4e68-879d-aee94f8abaa4",
+               "id": "262",
+               "name": "Molmed/clarity-ext: Extensions for Clarity",
+               "type": "url",
+               "url": "https://github.com/Molmed/clarity-ext"
+            }, {
+               "date_added": "13117037258000000",
+               "guid": "97caf309-0479-4491-a4f5-0c322b01db39",
+               "id": "263",
+               "name": "Molmed/clarity-snpseq: Private repo containing the configuration of Clarity at SNP&SEQ (exported with clarity-slices)",
+               "type": "url",
+               "url": "https://github.com/Molmed/clarity-snpseq"
+            }, {
+               "date_added": "13152354210000000",
+               "guid": "0632c085-0694-4291-9ed7-754cf0cb3c3a",
+               "id": "264",
+               "name": "GitLab",
+               "type": "url",
+               "url": "https://gitlab.snpseq.medsci.uu.se/"
+            }, {
+               "date_added": "13155654083000000",
+               "guid": "e371589f-a19a-4835-bb57-87333b0b57ac",
+               "id": "265",
+               "name": "IT Help - Service Desk - Service Desk",
+               "type": "url",
+               "url": "https://snpseq.atlassian.net/servicedesk/customer/portal/2/create/28"
+            }, {
+               "date_added": "13211015980000000",
+               "guid": "4a8f9485-2e0a-4fa2-be18-e400a304f591",
+               "id": "266",
+               "name": "Projects - Tableau Server",
+               "type": "url",
+               "url": "https://reporting.snpseq.medsci.uu.se/#/projects"
+            }, {
+               "date_added": "13213451473000000",
+               "guid": "061e0cca-61d9-4f09-890b-7edb1b1251b4",
+               "id": "267",
+               "name": "show workflows: Sheet 1 - Tableau Server",
+               "type": "url",
+               "url": "https://reporting.snpseq.medsci.uu.se/#/views/showworkflows/Sheet1?:iid=2"
+            }, {
+               "date_added": "13213796753000000",
+               "guid": "2991dd7b-79b5-44c9-91d7-fefea395e018",
+               "id": "268",
+               "name": "Sample submission files by withrocks · Pull Request #48 · commonlims/commonlims",
+               "type": "url",
+               "url": "https://github.com/commonlims/commonlims/pull/48/commits/eacbc1e60f1804c55431ffff0ccc16cceb4e4893"
+            }, {
+               "date_added": "13216475722000000",
+               "guid": "b602cf34-6e04-45a3-af21-0b031d473849",
+               "id": "269",
+               "name": "Staff at the SNP&SEQ Technology Platform - The SNP&SEQ Technology Platform - Uppsala University, Sweden",
+               "type": "url",
+               "url": "https://snpseq.medsci.uu.se/about-us/staff/"
+            }, {
+               "date_added": "13218724003000000",
+               "guid": "ca2ac65a-ef0b-437b-a197-320e57464870",
+               "id": "271",
+               "name": "Kibana",
+               "type": "url",
+               "url": "https://kibana.snpseq.medsci.uu.se/app/kibana#/discover?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-5d,mode:relative,to:now))&_a=(columns:!(_source),index:AWh-6tlRGjr_GWoht4_-,interval:auto,query:(query_string:(query:chiasma)),sort:!('@timestamp',desc))"
+            } ],
+            "date_added": "13226493517300242",
+            "date_modified": "13229182453115537",
+            "guid": "757339a2-59f4-4f36-a32a-80ece1cacd3d",
+            "id": "250",
+            "name": "Kommunikation",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13116339384000000",
+               "guid": "5bd0fd77-a500-4d71-819c-3bc8f3bfcb50",
+               "id": "273",
+               "name": "Clarity staging area",
+               "type": "url",
+               "url": "https://lims-staging.snpseq.medsci.uu.se/clarity/login/auth"
+            }, {
+               "date_added": "13137601347000000",
+               "guid": "6b9b5ac5-03ff-4d9f-b649-fbee9c4bb3d1",
+               "id": "274",
+               "name": "Clarity dev area",
+               "type": "url",
+               "url": "https://lims-dev.snpseq.medsci.uu.se/clarity/"
+            }, {
+               "date_added": "13198228923000000",
+               "guid": "2e42c2de-1328-461f-90ad-0ce2238a185f",
+               "id": "275",
+               "name": "Clarity operation area",
+               "type": "url",
+               "url": "https://lims.snpseq.medsci.uu.se/clarity/login/auth"
+            }, {
+               "date_added": "13121529779000000",
+               "guid": "3e469a19-2f8d-43a5-b754-32fd69e501c6",
+               "id": "276",
+               "name": "GenoLogics Customer Support",
+               "type": "url",
+               "url": "https://genologics.zendesk.com/hc/en-us/restricted?return_to=https%3A%2F%2Fgenologics.zendesk.com%2Fhc%2Fen-us"
+            }, {
+               "date_added": "13121531282000000",
+               "guid": "d39ae83e-d22e-44d9-981f-cfd6f08008b9",
+               "id": "277",
+               "name": "GenoLogics LIMS User Guide",
+               "type": "url",
+               "url": "https://www.genologics.com/files/permanent/GenoLogics_LIMS_User_Guide.pdf"
+            } ],
+            "date_added": "13226493517301008",
+            "date_modified": "0",
+            "guid": "ec7ee94d-fd37-4aa8-89ac-3504ddfbbca6",
+            "id": "272",
+            "name": "Genologics",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13137143439000000",
+                  "guid": "b293273e-5222-4e16-8766-7646e43f0020",
+                  "id": "280",
+                  "name": "Reference SNP (refSNP) Cluster Report: rs727811",
+                  "type": "url",
+                  "url": "https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=727811"
+               }, {
+                  "date_added": "13153411228000000",
+                  "guid": "40e73512-6fa3-47a6-9dea-25dcb1c36972",
+                  "id": "281",
+                  "name": "Ensembl genome browser 90",
+                  "type": "url",
+                  "url": "https://www.ensembl.org/index.html"
+               } ],
+               "date_added": "13226493517301367",
+               "date_modified": "0",
+               "guid": "2bd8c7cb-e98d-45a3-bc09-6aec90a84a83",
+               "id": "279",
+               "name": "Databaser",
+               "type": "folder"
+            } ],
+            "date_added": "13226493517301263",
+            "date_modified": "13226571945355924",
+            "guid": "c934a512-e5b3-4e51-9e52-4f73f1694ffc",
+            "id": "278",
+            "name": "Bioinformatik",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13184335841000000",
+                  "guid": "d9ab4f46-a1d7-4d8d-9e3f-eb23d0a4e026",
+                  "id": "284",
+                  "name": "How to restrict yum to install or upgrade a package to a fixed specific package version?",
+                  "type": "url",
+                  "url": "https://access.redhat.com/solutions/98873"
+               }, {
+                  "date_added": "13184335910000000",
+                  "guid": "0a425b43-3437-4647-9421-1a29658b2598",
+                  "id": "285",
+                  "name": "yum: honour package version pinning via yum-plugin-versionlock · Issue #13086 · ansible/ansible",
+                  "type": "url",
+                  "url": "https://github.com/ansible/ansible/issues/13086"
+               } ],
+               "date_added": "13226493517301534",
+               "date_modified": "0",
+               "guid": "5a3e60a3-a1bc-4f18-b17d-5dbd09c6c056",
+               "id": "283",
+               "name": "Versionlock",
+               "type": "folder"
+            }, {
+               "date_added": "13217945130000000",
+               "guid": "a3cf8801-e68d-4e10-9bc4-8f2ee8e53bcb",
+               "id": "286",
+               "name": "python - Use openpyxl to edit a Excel2007 file (.xlsx) without changing its own styles? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/6772438/use-openpyxl-to-edit-a-excel2007-file-xlsx-without-changing-its-own-styles"
+            }, {
+               "date_added": "13225301127000000",
+               "guid": "8c40744b-edaf-4ae7-9df2-d6772d0bbb02",
+               "id": "287",
+               "name": "Testing connected components that have nested connected components within · Issue #2091 · reduxjs/redux",
+               "type": "url",
+               "url": "https://github.com/reduxjs/redux/issues/2091"
+            } ],
+            "date_added": "13226493517301441",
+            "date_modified": "0",
+            "guid": "c0baa778-30af-4e5e-9225-270a00ad6966",
+            "id": "282",
+            "name": "Tmp",
+            "type": "folder"
+         }, {
+            "date_added": "13183728405000000",
+            "guid": "5753b98e-86d9-43ae-87eb-4b9f52ac5c7d",
+            "id": "288",
+            "name": "Generating a new SSH key and adding it to the ssh-agent - User Documentation",
+            "type": "url",
+            "url": "https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/"
+         } ],
+         "date_added": "13226494045521882",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13226494045521891",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13226494045521894",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
