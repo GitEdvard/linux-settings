@@ -1,0 +1,197 @@
+<keymap version="1" name="Default for KDE edvard" parent="Default for KDE">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl plus" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="ChangeSignature" />
+  <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl plus" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
+    <keyboard-shortcut first-keystroke="ctrl alt plus" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+  </action>
+  <action id="Console.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl j" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl dead_acute" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl alt dead_acute" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="FindWordAtCaret" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl dead_acute" />
+  </action>
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
+  <action id="GotoBookmark6">
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+  </action>
+  <action id="GotoBookmark7">
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="GotoBookmark8">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
+  <action id="GotoBookmark9">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="GotoNextElementUnderCaretUsage">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
+  </action>
+  <action id="GotoPrevElementUnderCaretUsage">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl p" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl h" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="ScrollTreeToCenter" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl i" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="Stop" />
+  <action id="ToggleBookmark0">
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+  </action>
+  <action id="ToggleBookmark1">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+  </action>
+  <action id="ToggleBookmark3">
+    <keyboard-shortcut first-keystroke="shift ctrl 3" />
+  </action>
+  <action id="ToggleBookmark4">
+    <keyboard-shortcut first-keystroke="shift ctrl 4" />
+  </action>
+  <action id="ToggleBookmark5">
+    <keyboard-shortcut first-keystroke="shift ctrl 5" />
+  </action>
+  <action id="ToggleBookmark6">
+    <keyboard-shortcut first-keystroke="shift ctrl 6" />
+  </action>
+  <action id="ToggleBookmark7">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
+  <action id="ToggleBookmark8">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+  </action>
+  <action id="ToggleBookmark9">
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
+  </action>
+  <action id="ToggleLineBreakpoint" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ViewBreakpoints" />
+</keymap>
