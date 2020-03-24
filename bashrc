@@ -132,9 +132,12 @@ export PATH="$PATH:~/bin:~/Installations/pycharm/pycharm-community-2019.3.3/bin"
 export PATH="$PATH:~/bin/bin_work"
 export PATH="$PATH:~/bin"
 export PATH="$PATH:~/bin/bin_home"
+export PATH="$PATH:/opt/pycharm-community-2019.3.4/bin"
+export PATH="$PATH:~/Installations/miniconda3/bin"
 export UU_VPN_USERNAME="edeng655"
 export SNPSEQ_WORKSTATION_HOSTNAME="oem-OptiPlex-7040.medsci.uu.se"
 export SNPSEQ_WORKSTATION_USERNAME="edvard"
+
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
