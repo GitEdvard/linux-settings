@@ -127,20 +127,23 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$PATH:~/bin/bin_work"
 export PATH="$PATH:~/bin"
 export PATH="$PATH:~/bin/bin_home"
+export PATH="$PATH:/opt/pycharm-community-2019.3.4/bin"
+export PATH="$PATH:~/Installations/miniconda3/bin"
 export UU_VPN_USERNAME="edeng655"
 export SNPSEQ_WORKSTATION_HOSTNAME="oem-OptiPlex-7040.medsci.uu.se"
 export SNPSEQ_WORKSTATION_USERNAME="edvard"
 
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('$HOME/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/edvard/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "$HOME/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "$HOME/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="$HOME/miniconda3/bin:$PATH"
+        export PATH="/home/edvard/Installations/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
