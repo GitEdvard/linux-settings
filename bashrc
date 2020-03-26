@@ -96,6 +96,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias act='conda activate'
+alias start-ssh='ssh-add ~/.ssh/github_home'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
