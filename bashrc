@@ -101,7 +101,8 @@ alias loopback-on='pactl load-module module-loopback'
 alias loopback-off='pactl unload-module module-loopback'
 alias read-bashrc='source ~/.bashrc'
 alias ports='sudo lsof -i -P -n | grep LISTEN'
-alias tunnel-sthlm='ssh -L 5001:ctmr-lims-stage.scilifelab.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias tunnel-sthlm='ssh -L 5001:c1-ctmr-lims-stage01.ki.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias tunnel-sthlm-prod='ssh -L 5003:c1-ctmr-lims-prod01.ki.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
 alias tunnel-lims-dev='ssh -L 5002:lims-dev.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
 
 # Add an "alert" alias for long running commands.  Use like so:
