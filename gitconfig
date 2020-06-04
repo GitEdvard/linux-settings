@@ -14,4 +14,4 @@
 [cola]
 	spellcheck = false
 [core]
-	editor = vim
+	editor = emacs

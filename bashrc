@@ -91,6 +91,7 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias act='conda activate'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -124,18 +125,19 @@ export NVM_DIR="$HOME/.nvm"
 
 # Edvard configs
 export PATH="$PATH:~/bin:~/Installations/pycharm/pycharm-community-2019.3.3/bin"
-
+export PATH="$PATH:~/bin/bin_work"
+export PATH="$PATH:~/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/edvard/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('$HOME/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "$HOME/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "$HOME/Installations/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/edvard/Installations/miniconda3/bin:$PATH"
+        export PATH="$HOME/Installations/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
@@ -152,7 +154,8 @@ function _fizzbuzz () {
 }
 complete -F _fizzbuzz fizzbuzz
 
-source /home/edvard/scripts/delete-branch-completion.bash
-source /home/edvard/scripts/git-merge-develop-completion.bash
-source /home/edvard/scripts/git-rebase-develop-completion.bash
+source "$HOME/scripts/delete-branch-completion.bash"
+source "$HOME/scripts/git-merge-develop-completion.bash"
+source "$HOME/scripts/git-rebase-develop-completion.bash"
+
 
