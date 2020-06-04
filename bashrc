@@ -92,6 +92,10 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias act='conda activate'
+alias start-ssh='ssh-add ~/.ssh/github_home'
+alias read-bashrc='source ~/.bashrc'
+alias ports='sudo lsof -i -P -n | grep LISTEN'
+
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
