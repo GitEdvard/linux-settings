@@ -92,7 +92,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias act='conda activate'
-alias start-ssh='ssh-add ~/.ssh/github_home'
+alias start-ssh='ssh-add ~/.ssh/github_kubuntu2'
 alias read-bashrc='source ~/.bashrc'
 alias ports='sudo lsof -i -P -n | grep LISTEN'
 
