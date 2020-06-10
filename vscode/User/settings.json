@@ -1,9 +1,9 @@
 {
     "window.zoomLevel": 1,
     "editor.fontSize": 18,
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "explorer.confirmDelete": false,
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
 }

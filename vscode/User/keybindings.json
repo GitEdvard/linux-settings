@@ -38,8 +38,9 @@
         "command": "workbench.files.action.showActiveFileInExplorer"
     },
     {
-        "key": "ctrl+[Semicolon]",
-        "command": "editor.action.moveCarretRightAction"
+        "key": "ctrl+;",
+        "command": "editor.action.moveCarretRightAction",
+        "when": "editorTextFocus"
     },
     {
         "key": "ctrl+[Quote]",
@@ -91,5 +92,10 @@
         "key": "down",
         "command": "-selectNextSuggestion",
         "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
+    },
+    {
+        "key": "ctrl+;",
+        "command": "editor.action.moveCarretRightAction",
+        "when": "editorTextFocus"
     },
 ]
