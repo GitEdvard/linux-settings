@@ -102,6 +102,7 @@ alias loopback-off='pactl unload-module module-loopback'
 alias read-bashrc='source ~/.bashrc'
 alias ports='sudo lsof -i -P -n | grep LISTEN'
 alias tunnel-gitlab='ssh -L 5001:gitlab.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias reset-hard='git reset --hard @'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
