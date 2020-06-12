@@ -38,15 +38,6 @@
         "command": "workbench.files.action.showActiveFileInExplorer"
     },
     {
-        "key": "ctrl+;",
-        "command": "editor.action.moveCarretRightAction",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+[Quote]",
-        "command": "editor.action.moveCarretLeftAction"
-    },
-    {
         "key": "ctrl+l ctrl+l",
         "command": "center-editor-window.center",
         "when": "editorTextFocus || findWidgetVisible"
@@ -90,12 +81,27 @@
     },
     {
         "key": "down",
-        "command": "-selectNextSuggestion",
+        "command": "selectNextSuggestion",
         "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
     },
     {
         "key": "ctrl+;",
-        "command": "editor.action.moveCarretRightAction",
-        "when": "editorTextFocus"
+        "command": "cursorRight",
+        "when": "textInputFocus"
     },
+    {
+        "key": "right",
+        "command": "cursorRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+'",
+        "command": "cursorLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "left",
+        "command": "cursorLeft",
+        "when": "textInputFocus"
+    }
 ]
