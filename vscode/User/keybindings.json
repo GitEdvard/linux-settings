@@ -103,5 +103,13 @@
         "key": "left",
         "command": "cursorLeft",
         "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "-workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "workbench.action.gotoMethod"
     }
 ]
