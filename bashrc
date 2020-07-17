@@ -95,7 +95,7 @@ alias act='conda activate'
 alias start-ssh='ssh-add ~/.ssh/github_kubuntu2'
 alias read-bashrc='source ~/.bashrc'
 alias ports='sudo lsof -i -P -n | grep LISTEN'
-
+alias reset-hard='git reset --hard @'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
