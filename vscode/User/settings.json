@@ -16,4 +16,7 @@
     "python.linting.lintOnSave": false,
     "python.workspaceSymbols.rebuildOnFileSave": false,
     "eslint.codeActionsOnSave.mode": "problems",
+    "problems.autoReveal": false,
+    "problems.decorations.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
 }
