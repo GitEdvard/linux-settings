@@ -102,6 +102,8 @@ alias loopback-off='pactl unload-module module-loopback'
 alias read-bashrc='source ~/.bashrc'
 alias ports='sudo lsof -i -P -n | grep LISTEN'
 alias tunnel-gitlab='ssh -L 5001:gitlab.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias tunnel-lims-dev='ssh -L 5002:lims-dev.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias tunnel-tableau='ssh -L 5003:reporting.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
 alias reset-hard='git reset --hard @'
 alias reset-to-previous='git reset @~1'
 
