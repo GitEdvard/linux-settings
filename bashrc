@@ -57,7 +57,7 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\[\033[00m\]\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
@@ -98,6 +98,7 @@ alias ports='sudo lsof -i -P -n | grep LISTEN'
 alias reset-hard='git reset --hard @'
 alias reset-to-previous='git reset @~1'
 
+
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
@@ -129,19 +130,20 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
+export PATH="$PATH:~/bin:~/Installations/pycharm/pycharm-community-2019.3.3/bin"
 export PATH="$PATH:~/bin/bin_work"
 export PATH="$PATH:~/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('$HOME/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('$HOME/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "$HOME/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "$HOME/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "$HOME/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "$HOME/Installations/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="$HOME/miniconda3/bin:$PATH"
+        export PATH="$HOME/Installations/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
@@ -161,4 +163,5 @@ complete -F _fizzbuzz fizzbuzz
 source "$HOME/scripts/delete-branch-completion.bash"
 source "$HOME/scripts/git-merge-develop-completion.bash"
 source "$HOME/scripts/git-rebase-develop-completion.bash"
+
 
