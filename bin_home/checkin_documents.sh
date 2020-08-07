@@ -14,3 +14,5 @@ if [ "$SNPSEQ_WORKSTATION_HOSTNAME" == "" ];  then
 fi
 
 scp -rp $HOME/Documents $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME:$HOME
+rsync -ru --delete -e ssh $HOME/sources/commonlims/.git $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME:$HOME/Documents/commonlims_bkp
+rsync -ru --delete -e ssh $HOME/sources/commonlims-snpseq/.git $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME:$HOME/Documents/commonlims_snpseq_bkp
