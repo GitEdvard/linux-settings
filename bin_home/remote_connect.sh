@@ -37,9 +37,10 @@ echo "tmux_session=$tmux_session"
 
 connect_vpn() {
 	# TODO: If already connected, skip the following
-	echo -n "VPN password for $username: "
-	read -s password
-	echo
+	# echo -n "VPN password for $username: "
+	# read -s password
+	# echo
+	password=$(<~/.myvpn)
 
 	echo "Disconnecting vpn..."
 	eval "${anyconnect_path} -s disconnect"
