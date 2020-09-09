@@ -60,21 +60,23 @@ else
     echo "Vpn connection already active"
 fi
 
-echo "tunnel to internal resources, gitlab, canea, tableau"
+# NOTE: The following two will ask for a pass unless you've set up a keypair
+echo "Setting up socks..."
 
-echo "Killing old port binds instances..."
+echo "Killing old socks instances..."
 set +e
-kill -9 $(lsof -i:5001 -t) 2> /dev/null
-kill -9 $(lsof -i:5002 -t) 2> /dev/null
-kill -9 $(lsof -i:5003 -t) 2> /dev/null
 kill -9 $(lsof -i:8123 -t) 2> /dev/null
 set -e
-
-
-ssh -L 5001:gitlab.snpseq.medsci.uu.se:443 -L 5002:lims-dev.snpseq.medsci.uu.se:443 -L 5003:reporting.snpseq.medsci.uu.se:443 -f -C -N $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME
 
 echo "SSHing using SOCKS protocol on port 8123..."
 echo "Setup a SOCKS profile in your webbrowser using this port for accessing internal websites"
 echo "ssh statement:"
 echo "ssh -D 8123 -f -C -N $workstation_username@$workstation"
 ssh -D 8123 -f -C -N $workstation_username@$workstation
+
+echo "SSHing to your workstation"
+if [ "$tmux_session" == "" ]; then
+    ssh $workstation_username@$workstation
+else
+    ssh -t $workstation_username@$workstation "tmux attach -t $tmux_session || tmux new -s $tmux_session"
+fi
