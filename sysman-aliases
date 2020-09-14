@@ -1,0 +1,6 @@
+alias cdr='cd ~/sources/system-management/snpseq/'
+alias vbm='vboxmanage'
+alias vbm-runningvms='vboxmanage list runningvms'
+alias vbm-vms='vboxmanage list vms'
+
+sysman=~/sources/system-management/snpseq

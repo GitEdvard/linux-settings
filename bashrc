@@ -114,6 +114,7 @@ alias go-back-from-ci='git push origin 326-fix-ci && git co - && git stash pop'
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 alias makefresh='make fresh && pytest tests/clims'
+source $HOME/sources/linux-settings/sysman-aliases
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -145,6 +146,7 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$PATH:~/bin/bin_work"
 export PATH="$PATH:~/bin"
 export PATH="$PATH:~/bin/bin_home"
+export PATH="$PATH:~/bin/bin_sysman"
 export PATH="$PATH:/opt/pycharm-community-2019.3.4/bin"
 export PATH="$PATH:~/Installations/miniconda3/bin"
 export UU_VPN_USERNAME="edeng655"
