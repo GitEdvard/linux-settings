@@ -91,30 +91,9 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias act='conda activate'
-alias start-ssh='ssh-add ~/.ssh/github_home'
-alias start-sysman-ssh='ssh-add ~/.ssh/id_rsa'
-alias loopback-on='pactl load-module module-loopback'
-alias loopback-off='pactl unload-module module-loopback'
-alias read-bashrc='source ~/.bashrc'
-alias ports='sudo lsof -i -P -n | grep LISTEN'
-alias tunnel-gitlab='ssh -L 5001:gitlab.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
-alias tunnel-lims-dev='ssh -L 5002:lims-dev.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
-alias tunnel-tableau='ssh -L 5003:reporting.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
-alias reset-hard='git reset --hard @'
-alias reset-to-previous='git reset @~1'
-alias amend='git add . && git ci --amend'
-alias goto-ci='git stash && git co -'
-alias go-back-from-ci='git push origin 326-fix-ci && git co - && git stash pop'
-# Add an "alert" alias for long running commands.  Use like so:
-#   sleep 10; alert
-alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
-alias makefresh='make fresh && pytest tests/clims'
-source $HOME/sources/linux-settings/sysman-aliases
+source $HOME/sources/bashrc-contents/home-aliases
+source $HOME/sources/bashrc-contents/work-aliases
+source $HOME/sources/bashrc-contents/sysman-aliases
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
