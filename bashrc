@@ -87,7 +87,7 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-source $HOME/sources/linux-settings/work-aliases
+source $HOME/sources/bashrc-contents/work-aliases
 
 
 # Add an "alert" alias for long running commands.  Use like so:
