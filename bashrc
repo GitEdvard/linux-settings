@@ -87,16 +87,7 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias act='conda activate'
-alias start-ssh='ssh-add ~/.ssh/github_kubuntu2'
-alias read-bashrc='source ~/.bashrc'
-alias ports='sudo lsof -i -P -n | grep LISTEN'
-alias reset-hard='git reset --hard @'
-alias reset-to-previous='git reset @~1'
+source $HOME/sources/linux-settings/work-aliases
 
 
 # Add an "alert" alias for long running commands.  Use like so:
