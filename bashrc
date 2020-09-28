@@ -161,3 +161,4 @@ source "$HOME/scripts/delete-branch-completion.bash"
 source "$HOME/scripts/git-merge-develop-completion.bash"
 source "$HOME/scripts/git-rebase-develop-completion.bash"
 
+testdir="$HOME/sources/commonlims-snpseq/tests/snpseq/scripts/fragment_analyze/test_analyze_quality_table.py"
