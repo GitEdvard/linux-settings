@@ -94,6 +94,7 @@ fi
 source $HOME/sources/bashrc-contents/home-aliases
 source $HOME/sources/bashrc-contents/work-aliases
 source $HOME/sources/bashrc-contents/sysman-aliases
+source $HOME/sources/bashrc-contents/temp-aliases
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
