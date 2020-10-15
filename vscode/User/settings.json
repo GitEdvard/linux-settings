@@ -9,6 +9,7 @@
     "prettier.bracketSpacing": false,
     "prettier.arrowParens": "avoid",
     "prettier.semi": false,
+    "prettier.parser": "babel",
     "javascript.format.insertSpaceAfterCommaDelimiter": false,
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
     "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
