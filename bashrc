@@ -168,9 +168,9 @@ source "$HOME/scripts/git-add-completion.bash"
 
 testdir="$HOME/sources/commonlims-snpseq/tests/snpseq/scripts/fragment_analyze/test_analyze_quality_table.py"
 
-function _bind_menu_complete() {
-  bind Tab:menu-complete
-}
+# function _bind_menu_complete() {
+#   bind Tab:menu-complete
+# }
 
-_bind_menu_complete
+# _bind_menu_complete
 
