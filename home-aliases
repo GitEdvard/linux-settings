@@ -1,0 +1,7 @@
+alias start-ssh='ssh-add ~/.ssh/github_home'
+alias loopback-on='pactl load-module module-loopback'
+alias loopback-off='pactl unload-module module-loopback'
+alias tunnel-gitlab='ssh -L 5001:gitlab.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias tunnel-lims-dev='ssh -L 5002:lims-dev.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias tunnel-tableau='ssh -L 5003:reporting.snpseq.medsci.uu.se:443 $SNPSEQ_WORKSTATION_USERNAME@$SNPSEQ_WORKSTATION_HOSTNAME'
+alias restart-network='sudo systemctl restart network-manager.service'

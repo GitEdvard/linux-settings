@@ -91,20 +91,9 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias act='conda activate'
-alias start-ssh='ssh-add ~/.ssh/github_home'
-alias read-bashrc='source ~/.bashrc'
-alias ports='sudo lsof -i -P -n | grep LISTEN'
-alias loopback-on='pactl load-module module-loopback'
-alias loopback-off='pactl unload-module module-loopback'
-
-# Add an "alert" alias for long running commands.  Use like so:
-#   sleep 10; alert
-alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+source $HOME/sources/bashrc-contents/work-aliases
+source $HOME/sources/bashrc-contents/home-aliases
+source $HOME/sources/bashrc-contents/temp-aliases
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -139,6 +128,7 @@ export PATH="$PATH:~/bin"
 export PATH="$PATH:~/bin/bin_home"
 export PATH="$PATH:/opt/pycharm-community-2019.3.4/bin"
 export PATH="$PATH:~/Installations/miniconda3/bin"
+export PATH="$PATH:~/Installations/DataGrip-2020.3/bin"
 export UU_VPN_USERNAME="edeng655"
 export SNPSEQ_WORKSTATION_HOSTNAME="oem-OptiPlex-7040.medsci.uu.se"
 export SNPSEQ_WORKSTATION_USERNAME="edvard"
@@ -146,14 +136,14 @@ export SNPSEQ_WORKSTATION_USERNAME="edvard"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('$HOME/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/edvard/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "$HOME/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "$HOME/Installations/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="$HOME/Installations/miniconda3/bin:$PATH"
+        export PATH="/home/edvard/Installations/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
@@ -173,5 +163,15 @@ complete -F _fizzbuzz fizzbuzz
 source "$HOME/scripts/delete-branch-completion.bash"
 source "$HOME/scripts/git-merge-develop-completion.bash"
 source "$HOME/scripts/git-rebase-develop-completion.bash"
+source "$HOME/scripts/git-add-completion.bash"
+
+
+testdir="$HOME/sources/commonlims-snpseq/tests/snpseq/scripts/fragment_analyze/test_analyze_quality_table.py"
+
+# function _bind_menu_complete() {
+#   bind Tab:menu-complete
+# }
+
+# _bind_menu_complete
 
 
