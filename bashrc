@@ -126,6 +126,7 @@ export NVM_DIR="$HOME/.nvm"
 # Edvard configs
 export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
 export PATH="$PATH:~/bin/bin_work"
+export PATH="$PATH:~/bin/bin_sysman"
 export PATH="$PATH:~/bin"
 
 # >>> conda initialize >>>
