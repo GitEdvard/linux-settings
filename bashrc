@@ -88,6 +88,7 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 source $HOME/sources/bashrc-contents/common-aliases
+source $HOME/sources/bashrc-contents/work-exclusive-aliases
 
 
 # Add an "alert" alias for long running commands.  Use like so:
@@ -122,7 +123,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
-export PATH="$PATH:~/bin:~/Installations/pycharm/pycharm-community-2019.3.3/bin"
+export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
 export PATH="$PATH:~/bin/bin_work"
 export PATH="$PATH:~/bin"
 
