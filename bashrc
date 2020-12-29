@@ -89,6 +89,7 @@ fi
 
 source $HOME/sources/bashrc-contents/common-aliases
 source $HOME/sources/bashrc-contents/work-exclusive-aliases
+source $HOME/sources/bashrc-contents/sysman-aliases
 
 
 # Add an "alert" alias for long running commands.  Use like so:
