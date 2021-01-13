@@ -1,0 +1,1 @@
+/home/edvard/sources/bashrc-contents/profile_home/profile
