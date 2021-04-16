@@ -36,9 +36,10 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
 fi
 
 # set a fancy prompt (non-color, unless we know we "want" color)
-case "$TERM" in
-    xterm-color|*-256color) color_prompt=yes;;
-esac
+#case "$TERM" in
+#    xterm-color|*-256color) color_prompt=yes;;
+#esac
+color_prompt=yes
 
 # uncomment for a colored prompt, if the terminal has the capability; turned
 # off by default to not distract the user: the focus in a terminal window
@@ -122,17 +123,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
-export PATH="$PATH:~/bin:~/Installations/pycharm/pycharm-community-2019.3.3/bin"
-export PATH="$PATH:~/bin/bin_work"
-export PATH="$PATH:~/bin"
-export PATH="$PATH:~/bin/bin_home"
-export PATH="$PATH:/opt/pycharm-community-2019.3.4/bin"
-export PATH="$PATH:~/Installations/miniconda3/bin"
-export PATH="$PATH:~/Installations/DataGrip-2020.3/bin"
-export UU_VPN_USERNAME="edeng655"
-export SNPSEQ_WORKSTATION_HOSTNAME="oem-OptiPlex-7040.medsci.uu.se"
-export SNPSEQ_WORKSTATION_USERNAME="edvard"
 
+source $HOME/sources/bashrc-contents/home-exports
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
