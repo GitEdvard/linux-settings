@@ -96,6 +96,7 @@ fi
 source $HOME/sources/bashrc-contents/home-aliases
 source $HOME/sources/bashrc-contents/common-aliases
 source $HOME/sources/bashrc-contents/sysman-aliases
+source $HOME/sources/bashrc-contents/docker-aliases
 source $HOME/sources/bashrc-contents/temp-aliases
 
 # Alias definitions.
@@ -127,6 +128,7 @@ export NVM_DIR="$HOME/.nvm"
 # Edvard configs
 source $HOME/sources/bashrc-contents/home-exports
 export PATH="$PATH:~/bin/bin_sysman"
+export PATH="$PATH:~/bin/bin_docker"
 
 
 # >>> conda initialize >>>
