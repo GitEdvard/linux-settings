@@ -167,3 +167,5 @@ source "$HOME/scripts/git-add-completion.bash"
 # }
 
 # _bind_menu_complete
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
