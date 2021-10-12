@@ -91,7 +91,7 @@ fi
 source $HOME/sources/bashrc-contents/common-aliases
 source $HOME/sources/bashrc-contents/work-exclusive-aliases
 source $HOME/sources/bashrc-contents/sysman-aliases
-
+source $HOME/sources/bashrc-contents/docker-aliases
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -143,7 +143,6 @@ export PATH="$PATH:~/bin"
 #    fi
 #fi
 #unset __conda_setup
->>>>>>> 7792adb... disable conda, move gitconfig
 # <<< conda initialize <<<
 
 function _fizzbuzz () {
