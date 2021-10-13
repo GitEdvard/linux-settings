@@ -141,7 +141,6 @@ export PATH="$PATH:~/bin"
 #    fi
 #fi
 #unset __conda_setup
->>>>>>> 7792adb... disable conda, move gitconfig
 # <<< conda initialize <<<
 
 function _fizzbuzz () {
