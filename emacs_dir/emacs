@@ -19,7 +19,8 @@
 (set-face-attribute 'default nil :height 140)
 (put 'upcase-region 'disabled nil)
 (setq backup-directory-alist `(("." . "~/.saves")))
-(load-theme 'firebelly)
+(if window-system
+  (load-theme 'firebelly))
 (setq inhibit-startup-screen t)
 (show-paren-mode 1)
 (global-set-key "%" 'match-paren)
