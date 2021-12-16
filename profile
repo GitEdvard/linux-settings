@@ -1,1 +1,1 @@
-/home/edvard/sources/bashrc-contents/profile_home/profile
+/home/edvard/sources/admin/bashrc-contents/profile_home/profile

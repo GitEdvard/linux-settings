@@ -93,11 +93,11 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-source $HOME/sources/bashrc-contents/home-aliases
-source $HOME/sources/bashrc-contents/common-aliases
-source $HOME/sources/bashrc-contents/sysman-aliases
-source $HOME/sources/bashrc-contents/docker-aliases
-source $HOME/sources/bashrc-contents/temp-aliases
+source $HOME/sources/admin/bashrc-contents/home-aliases
+source $HOME/sources/admin/bashrc-contents/common-aliases
+source $HOME/sources/admin/bashrc-contents/sysman-aliases
+source $HOME/sources/admin/bashrc-contents/docker-aliases
+source $HOME/sources/admin/bashrc-contents/temp-aliases
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -126,7 +126,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
-source $HOME/sources/bashrc-contents/home-exports
+source $HOME/sources/admin/bashrc-contents/home-exports
 export PATH="$PATH:~/bin/bin_sysman"
 export PATH="$PATH:~/bin/bin_docker"
 
