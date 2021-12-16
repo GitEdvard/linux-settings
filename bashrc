@@ -92,9 +92,9 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-source $HOME/sources/bashrc-contents/common-aliases
-source $HOME/sources/bashrc-contents/home-aliases
-source $HOME/sources/bashrc-contents/temp-aliases
+source $HOME/sources/admin/bashrc-contents/common-aliases
+source $HOME/sources/admin/bashrc-contents/home-aliases
+source $HOME/sources/admin/bashrc-contents/temp-aliases
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -128,17 +128,17 @@ source $HOME/sources/bashrc-contents/home-exports
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/edvard/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/edvard/Installations/miniconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
+#__conda_setup="$('/home/edvard/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+#if [ $? -eq 0 ]; then
+#    eval "$__conda_setup"
+#else
+#    if [ -f "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
+#        . "/home/edvard/Installations/miniconda3/etc/profile.d/conda.sh"
+#    else
+#        export PATH="/home/edvard/Installations/miniconda3/bin:$PATH"
+#    fi
+#fi
+#unset __conda_setup
 # <<< conda initialize <<<
 
 function _fizzbuzz () {
