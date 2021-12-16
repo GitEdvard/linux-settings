@@ -88,10 +88,10 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-source $HOME/sources/bashrc-contents/common-aliases
-source $HOME/sources/bashrc-contents/work-exclusive-aliases
-source $HOME/sources/bashrc-contents/sysman-aliases
-source $HOME/sources/bashrc-contents/docker-aliases
+source $HOME/sources/admin/bashrc-contents/common-aliases
+source $HOME/sources/admin/bashrc-contents/work-exclusive-aliases
+source $HOME/sources/admin/bashrc-contents/sysman-aliases
+source $HOME/sources/admin/bashrc-contents/docker-aliases
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
