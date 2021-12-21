@@ -125,9 +125,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
+source $HOME/sources/admin/bashrc-contents/common-exports
 export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
-export PATH="$PATH:~/bin/bin_work"
-export PATH="$PATH:~/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
