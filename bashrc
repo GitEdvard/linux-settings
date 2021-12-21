@@ -126,10 +126,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
+source $HOME/sources/admin/bashrc-contents/common-exports
 source $HOME/sources/admin/bashrc-contents/home-exports
-export PATH="$PATH:~/bin/bin_sysman"
-export PATH="$PATH:~/bin/bin_docker"
-export PATH="$PATH:/usr/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
