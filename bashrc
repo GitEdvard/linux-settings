@@ -124,6 +124,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Edvard configs
+source $HOME/sources/bashrc-contents/common-exports
 source $HOME/sources/bashrc-contents/home-exports
 
 # >>> conda initialize >>>
