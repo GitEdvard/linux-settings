@@ -1,3 +1,28 @@
+##############################
+# Original bashrc file in miarka
+################################
+# .bashrc
+
+# Modules, activate the module command
+case "$0" in
+          -sh|sh|*/sh)	modules_shell=sh ;;
+       -ksh|ksh|*/ksh)	modules_shell=ksh ;;
+       -zsh|zsh|*/zsh)	modules_shell=zsh ;;
+    -bash|bash|*/bash)	modules_shell=bash ;;
+esac
+module() { eval `/usr/local/Modules/$MODULE_VERSION/bin/modulecmd $modules_shell $*`; }
+
+# User specific aliases and functions
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+####################################
+# Original bashrc END
+###################################
+
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -39,7 +64,7 @@ fi
 #case "$TERM" in
 #    xterm-color|*-256color) color_prompt=yes;;
 #esac
-color_prompt=yes
+color_prompt=no
 
 # uncomment for a colored prompt, if the terminal has the capability; turned
 # off by default to not distract the user: the focus in a terminal window
@@ -90,7 +115,6 @@ fi
 
 source $HOME/sources/admin/bashrc-contents/common-aliases
 source $HOME/sources/admin/bashrc-contents/work-exclusive-aliases
-source $HOME/sources/admin/bashrc-contents/sysman-aliases
 source $HOME/sources/admin/bashrc-contents/docker-aliases
 
 # Add an "alert" alias for long running commands.  Use like so:
@@ -126,6 +150,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # Edvard configs
 source $HOME/sources/admin/bashrc-contents/common-exports
+export PATH="$PATH:$HOME/sources/admin/bashrc-contents/bin_work"
 export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
 
 # >>> conda initialize >>>
