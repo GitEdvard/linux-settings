@@ -116,6 +116,7 @@ fi
 source $HOME/sources/admin/bashrc-contents/common-aliases
 source $HOME/sources/admin/bashrc-contents/work-exclusive-aliases
 source $HOME/sources/admin/bashrc-contents/docker-aliases
+source $HOME/sources/admin/bashrc-contents/miarka-aliases
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -155,17 +156,17 @@ export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-#__conda_setup="$('$HOME/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-#if [ $? -eq 0 ]; then
-#    eval "$__conda_setup"
-#else
-#    if [ -f "$HOME/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
-#        . "$HOME/Installations/miniconda3/etc/profile.d/conda.sh"
-#    else
-#        export PATH="$HOME/Installations/miniconda3/bin:$PATH"
-#    fi
-#fi
-#unset __conda_setup
+__conda_setup="$('/home/edvard/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/edvard/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/edvard/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/edvard/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
 # <<< conda initialize <<<
 
 function _fizzbuzz () {
@@ -191,3 +192,5 @@ source "$HOME/scripts/git-add-completion.bash"
 
 # _bind_menu_complete
 
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
