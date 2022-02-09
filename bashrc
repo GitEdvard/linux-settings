@@ -127,6 +127,7 @@ export NVM_DIR="$HOME/.nvm"
 # Edvard configs
 source $HOME/sources/admin/bashrc-contents/common-exports
 export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
+export PATH="$PATH:~/bin/bin_work"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -166,3 +167,6 @@ source "$HOME/scripts/git-add-completion.bash"
 
 # _bind_menu_complete
 
+export PATH=/usr/local/go/bin:$PATH
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
