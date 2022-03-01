@@ -157,10 +157,7 @@ function _fizzbuzz () {
 }
 complete -F _fizzbuzz fizzbuzz
 
-source "$HOME/scripts/delete-branch-completion.bash"
-source "$HOME/scripts/git-merge-develop-completion.bash"
-source "$HOME/scripts/git-rebase-develop-completion.bash"
-source "$HOME/scripts/git-add-completion.bash"
+for f in $HOME/scripts/*; do source "$f"; done
 
 # function _bind_menu_complete() {
 #   bind Tab:menu-complete
