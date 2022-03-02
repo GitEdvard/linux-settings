@@ -129,6 +129,7 @@ export NVM_DIR="$HOME/.nvm"
 source $HOME/sources/admin/bashrc-contents/common-exports
 export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
 export PATH="$PATH:~/bin/bin_work"
+export PATH="$PATH:~/bin/bin_miarka"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
