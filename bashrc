@@ -90,9 +90,7 @@ fi
 
 source $HOME/sources/admin/bashrc-contents/common-aliases
 source $HOME/sources/admin/bashrc-contents/work-exclusive-aliases
-source $HOME/sources/admin/bashrc-contents/sysman-aliases
 source $HOME/sources/admin/bashrc-contents/docker-aliases
-source $HOME/sources/admin/bashrc-contents/miarka-aliases
 source $HOME/sources/admin/bashrc-contents/windows-aliases
 
 # Add an "alert" alias for long running commands.  Use like so:
