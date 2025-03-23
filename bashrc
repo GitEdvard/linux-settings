@@ -131,7 +131,8 @@ source $HOME/sources/admin/bashrc-contents/common-exports
 source $HOME/sources/admin/bashrc-contents/wsl-exports
 export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
 export PATH="$PATH:~/bin/bin_work"
-export PATH="$PATH:~/bin/bin_miarka"
+export PATH="$PATH:/home/edvard/.local/bin"
+export PATH="$PATH:/home/edvard/bin"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
