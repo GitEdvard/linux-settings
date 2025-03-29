@@ -89,9 +89,7 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 source $HOME/sources/admin/bashrc-contents/common-aliases
-source $HOME/sources/admin/bashrc-contents/work-exclusive-aliases
-source $HOME/sources/admin/bashrc-contents/docker-aliases
-source $HOME/sources/admin/bashrc-contents/windows/windows-aliases
+source $HOME/sources/admin/bashrc-contents/astrego-aliases
 source $HOME/sources/admin/bashrc-contents/windows/activate-ssh
 
 
