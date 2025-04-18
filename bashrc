@@ -89,8 +89,8 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 source $HOME/sources/admin/bashrc-contents/common-aliases
-source $HOME/sources/admin/bashrc-contents/astrego-aliases
-source $HOME/sources/admin/bashrc-contents/windows/activate-ssh
+source $HOME/sources/admin/bashrc-contents/astrego/astrego-aliases
+source $HOME/sources/admin/bashrc-contents/astrego/activate-ssh
 
 
 # Add an "alert" alias for long running commands.  Use like so:
@@ -117,8 +117,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-# commented out by Edvard
-# alias python=python3
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -127,25 +125,9 @@ export NVM_DIR="$HOME/.nvm"
 # Edvard configs
 source $HOME/sources/admin/bashrc-contents/common-exports
 source $HOME/sources/admin/bashrc-contents/wsl-exports
-export PATH="$PATH:~/Installations/pycharm-2020.3.1/bin"
-export PATH="$PATH:~/bin/bin_work"
+source $HOME/sources/admin/bashrc-contents/astrego/astrego-exports
 export PATH="$PATH:/home/edvard/.local/bin"
 export PATH="$PATH:/home/edvard/bin"
-
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-#__conda_setup="$('$HOME/Installations/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-#if [ $? -eq 0 ]; then
-#    eval "$__conda_setup"
-#else
-#    if [ -f "$HOME/Installations/miniconda3/etc/profile.d/conda.sh" ]; then
-#        . "$HOME/Installations/miniconda3/etc/profile.d/conda.sh"
-#    else
-#        export PATH="$HOME/Installations/miniconda3/bin:$PATH"
-#    fi
-#fi
-#unset __conda_setup
-# <<< conda initialize <<<
 
 function _fizzbuzz () {
   length=${#COMP_WORDS[@]}
